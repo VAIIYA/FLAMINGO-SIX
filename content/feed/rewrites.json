@@ -3466,9 +3466,6 @@
     "imageChecked": true,
     "image": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/sqpozui9j4dz6lzhajck"
   },
-  "fa0fa8171d67": {
-    "imageChecked": true
-  },
   "683314c6a137": {
     "imageChecked": true
   },
@@ -3480,6 +3477,9 @@
     "imageChecked": true
   },
   "4385c2c45df2": {
+    "imageChecked": true
+  },
+  "3277d8b15663": {
     "imageChecked": true
   }
 }
