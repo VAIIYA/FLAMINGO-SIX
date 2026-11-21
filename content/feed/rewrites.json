@@ -3355,10 +3355,6 @@
     "imageChecked": true,
     "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26323323560951.jpg?w=1200&crop=1"
   },
-  "a4f9ae645bd2": {
-    "imageChecked": true,
-    "image": "https://wp.clutchpoints.com/wp-content/uploads/2026/11/Klay-Thompson-on-Nov-18-2026.jpg"
-  },
   "d43c94facc3c": {
     "imageChecked": true,
     "image": "https://www.rawstory.com/media-library/us-president-donald-trump-gestures-as-he-speaks-during-a-press-conference-after-returning-from-asia-flanked-by-us-vice-presiden.jpg?id=68741689&width=1200&height=600&coordinates=0%2C417%2C0%2C418"
@@ -3409,5 +3405,42 @@
   "34753f82f581": {
     "imageChecked": true,
     "image": "https://www.kxan.com/wp-content/uploads/sites/40/2026/11/Austin-band-featured-in-GTA-VI.png?w=1280"
+  },
+  "633111901b34": {
+    "imageChecked": true,
+    "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Radio-DJs-and-podcast-hosts.jpg"
+  },
+  "842a290dec6d": {
+    "imageChecked": true,
+    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/e822c46f-f4e7-40a9-8c67-50959c46b0a1-1024x576.png"
+  },
+  "0519dcb7595e": {
+    "imageChecked": true,
+    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-pfister-growler-1024x576.png"
+  },
+  "1a42bd3f5d09": {
+    "imageChecked": true
+  },
+  "08fe2d960975": {
+    "imageChecked": true
+  },
+  "b0c589eeaa87": {
+    "imageChecked": true,
+    "image": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  "347d4b2fce6e": {
+    "imageChecked": true,
+    "image": "https://s.yimg.com/lo/mysterio/api/74742a86d50f8314932cee226272ccafd63c7f5b879ede9af819a659f976fb33/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F1546a9aa6a0291736fff2d9bb3fe1bf1.jpg_up.jpg"
+  },
+  "e50f71f83ebd": {
+    "imageChecked": true,
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg?w=1600&h=900&fit=crop"
+  },
+  "995dd9ac908f": {
+    "imageChecked": true,
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-giant-crab-crabshack-smg.jpg?w=1600&h=900&fit=crop"
+  },
+  "b25fb3cabe31": {
+    "imageChecked": true
   }
 }
