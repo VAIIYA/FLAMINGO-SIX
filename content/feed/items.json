@@ -1,5 +1,735 @@
 [
   {
+    "id": "a843b10e05ac",
+    "title": "\"Grand Theft Auto VI\" Mayhem Strikes America",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMjQ0VURRaEw3cmFPQjFZdEp2QnlkMTFidHdPSnRQRGprbHBnNUlGM3YwX1JsMjJPeU1CaDY5dWJnRlFHdXpPMDU1eFhueEh5emtIV1NEc3YtM1NETmM3YVgwN2dSYi1VRXJwVlNUYzdKdEpBQ2JHTEE2LVdXQjZaSQ?oc=5",
+    "source": "www.thesfnews.com",
+    "kind": "news",
+    "publishedAt": "2026-11-22T15:09:50.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "8f27cc9f02eb",
+    "title": "How Long Is Chapter 2 in GTA 6? All Missables and Mission List",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWmFmSEl2UXdxNEFWUFdoYUU3c2FvRW1lVGdlNmNSMmhpUHFyQmRXLXRzREN6S2FfTUtCM0ZZdDBscExWcTMwZF81WnQ0NWxudFVQLVVuazVwZXA4Vl83YWRZVkluUDcxdnRNellGZVZ3QTdvaDM2T3c3TFQ2Wnc?oc=5",
+    "source": "VICE",
+    "kind": "news",
+    "publishedAt": "2026-11-22T15:06:13.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "8085740f2410",
+    "title": "Mom Sends Daughter to Grandma’s House So She Can Play GTA 6 for 24 Hours Straight",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1cwUEI3OFphOGV2aVhWVkN6NGRpOVJrZHFDb1dvSUtxQ3llVVRvRGlyMGVlaVVYdTVjTVRTRnBoSFFhYVNELWlpVVNrMmNoX3VBQ3NrVHJaQ0ZjU3FYcUFoMHA0TXg1M1ZfTXZhMFhzbjk3eE5iNU9QVTRjOFZDNEhQR1hYeHZnWGdzb1EyRWVzZzRld0FpMFYwYS01b2s1UjNrNklHYVJ3ZXB1Z2sxVGRwZw?oc=5",
+    "source": "VICE",
+    "kind": "news",
+    "publishedAt": "2026-11-22T15:02:23.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "7d0179b752cf",
+    "title": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
+    "url": "https://www.polygon.com/gta-6-goty-game-awards-sweep/",
+    "source": "Polygon",
+    "kind": "news",
+    "publishedAt": "2026-11-22T15:00:18.000Z",
+    "summary": "Grand Theft Auto 6 is favorite for GOTY, but Rockstar is unlikely to sweep every award it's up for",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "96b07a1d17d5",
+    "title": "Here's where to find the Mamba GTs for Wyman in GTA 6",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcHdnZi10UWNKSDdiUHdydGYtQkdzdHgwc0x3MzNCR3V2dTM5RnpDSENSRF9DZEM3Uy1uUjZiaFVQYXEtdzhxbWlqNXV0VjQ4SVZHWjRLZnJOS2p3ejlnT3hBaURRVU5LcE5ZZ29WVWZmNjJDbFloOTFfUHc?oc=5",
+    "source": "PC Gamer",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:53:59.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "fdbad6d8d2c9",
+    "title": "GTA 6 glitch on XBOX Series X gets game running at 60fps - here's how to do it",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15SlNISzRYN0VDWUlFMlhmRHh5M1JxQWp6MEc4djJxTkRWSHB0M2U0Wmk0QkJZYVFDUjZUTXhpSXhtRVFlc2Y0cUFWNm1pdFU2b1lYemY5TVlkMElKZkVfcFR0dWZkX005RU1laDZrMA?oc=5",
+    "source": "Indy100",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:52:38.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "8ad5afa9da37",
+    "title": "GTA 6 Sensitivity Settings: Default Values, Ranges and Response Curves",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHdBNHh3Vm9vSXo3OEhOUjRXcVZRUm5JUzhGMFBYNmxaTS1STVZxUlB3X0lqMVFDSTAwSGN2c0luaU1xWFR0MEIwak9QeTVoalM4QURLSnRnZ3pJYnl3TWg5bU4wTHA5dTdHQ0gyNUpLeFo5Um1nc0Rxay0tXy1maDRDRDFqcnhWMTFnc19sNEpIdw?oc=5",
+    "source": "eGamers.io",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:51:41.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "05a6ebe99210",
+    "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind — brain-computer interface maps imagined ring-finger taps and hand slides to a PlayStation 5 controller",
+    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSl9zYzZLM0ZNSVVvUk1HdWlYaU9ITG9ZT04tQ0NKYmRtWjNBdWJCWmE3Nk00YTE1aVNrWFVLZ3Y5RXVyVF9kbzRtdVltYU1yNV9tWHZvbW5pR0cwb0tTbTdFU3c4bmhKSXZpNDZUbjY3VkRYZmZWVDNHQlV5SjNYTjJPOENENmtZYmxJZGJfRXdZNlBMWXFBVkhKWDlfemFLS21jaWxEbXROTjA0ZDhwZGt1REV0YVRkUVNfazhvNU1OT08ySGdxMy1sNDNUcmNYVWlrbXdlcjg3ajZ3R3lSOW1uNzlGb09qa1RSS3N0ZEFpdmJyWWJuVm1qdnU1NmtEMHRMWXN6S1N4NmhibTg1VkZPeHlUMUR2aE1BdnpFTmkxNjVMR2lRZ2QtbjFfM09palBWdURyTzlpMzFiRTlkbUlHc2l6VzJKQi1hMzB4WS16QQ?oc=5",
+    "source": "Tom's Hardware",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:49:48.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "e40d6c429663",
+    "title": "How to get Arthur Morgan's Hat in GTA 6",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:44:15.000Z",
+    "summary": "Arthur Morgan's genuine cowboy hat is found in a yard sale.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "2b646984cd5a",
+    "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+    "url": "https://www.polygon.com/gta-6-players-ridiculous-ways-to-steal-money/",
+    "source": "Polygon",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:36:30.000Z",
+    "summary": "GTA 6 players are discovering new creative solutions to get rich in Rockstar Games' latest open-world adventure.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "4733eb2f4521",
+    "title": "GTA 6 Mamba - Near The Ambrosia Gas Station",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WTFFIRjRsZXFRYzR3NTlibWkxcERmN1ZBdFdnbjN5TWNVa2lNTk5uZEM5c1UzdlVLaVFUcWRjU0xfMHhPbXRLU3JHWV9kMUFqbnpTZW5XSWZ5dkJtVi12OE5KalctdjFoZVRuZU1razZxX0NxRV9sbXBn?oc=5",
+    "source": "Yahoo Tech",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:35:32.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "0a298e40a6b7",
+    "title": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
+    "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
+    "source": "VGC",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:28:05.000Z",
+    "summary": "Here's what happens if you spare or shoot Benjamin Halifax",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "9dccff74cae4",
+    "title": "🎮 Steal a \"Tesla\" in GTA VI... And then sit back and \"enjoy the A.S.S. experience.\" You'll have to climb out the window when police arrive, tho. Writer: Marie",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNUxXWVZlNkVlbk94VTVSSWV5eWRBOEVDY3I3TndCR3F0Rm1jSGFIcTRmMlpSWEJ5aFR6bEs3M0RURktoalZDSzZyaXJ6OUtrVnhGdjJPX3dkZWRCMWhCMmJmVWdQdXN4bTdGQQ?oc=5",
+    "source": "X",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:25:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "15a5a0af84a8",
+    "title": "It Only Took 24 Hours For ‘GTA 6’ To Beat ‘Avengers: Endgame’s Lifetime Box Office",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGNQY3Y1Y3Q4a0dyVTNLZ0JSVFBmcXJQT1U4UEVuc3EzMnk2UVpzRzNJbzlLVnlXR0kzN1hfOHdjWFFTMmNQZFh5NF9zNDNqX3B6eHZJREFaSjAyQjdpSS1KU1ZEQ3ZTYmZPYkdrNC1ibUVONlZnb3RxdDk2YVd2REg4bnJabUVPUE0xVUZpalVSSlVXc0VyVGlIQ2V3RC1vRzlPeXpGRE9IVWFDUWc?oc=5",
+    "source": "https://103weup.com/",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:23:13.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "2607936c2512",
+    "title": "Grand Theft Auto VI has been criticized by players on Metacritic despite the media's praise.",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1YwZ05vWUp5cHpiVE14M2F6d1RnUGZQNlJ3WGlweGhvU2l1N0ZtZk5nbmRINTNrcmpaeVNXMnNNYmdTUTZ0S2s2NnJHeURUdUt1eW5RcDFkSXk4a0hrYTAwX2RhaDFqNnpnM0JWYTlNR25qNHZjSjV3NnNMVWZ6V05YcHM5U2g5bmhhUDdUT1NGbjhCeTdobk9Hci1jSmplZzJOQ2J6aW1HX3ZTQ0E2RWNENA?oc=5",
+    "source": "GameGPU",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:22:47.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "7caa8407fba6",
+    "title": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
+    "url": "https://www.videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax/",
+    "source": "VGC",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:20:51.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "9105544d1bdc",
+    "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans — KFC Spain’s ‘The Replacement Disc’ campaign delivers where Rockstar disappoints after selling $3.79 billion of GTA VI without a physical disc",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQU2RSLTRpc0wtb2NOVldFWTFDXzNtZmYxZHJncmp3QkRGM2JpTm9Oc1lucWpZcnpHNXZNSXNKUDBkWDM5OWJWbUh5eFh6eTBJTnVnY0dsUTM1Tk05NUFMU2MxbzhVSmdEMjZiUmU2OVRENkFCNkdyLWw2Y1NyeXZWZlh1TThITnJrRVZHMHRUcF9rWklCa3pDVzhqS2hUbEVJMFVYeFoyR0NnTW1jbWdlQW9CM3g3UEQzbWRvUjd1UGhJTG9KX0xUd193eDdmejhmQUNXWlp3VllPaFVPSGIwUGRUaVNVZXpFTGxFM3c1cEJiLU1GVURtTnROdVJpbGptSTVNUmNObUtJczdEdlVPQ1JjWUZGc08zbFdVNnFhdlNLY0tKa0NtVWdyMm95WldNaHUxd0hBbFd1NzVZVDNPU3FqdVZoU3VISnRkQ2VCMG94NjVqSjhuT1hYdzROZFBsUE0tZWZ3?oc=5",
+    "source": "Tom's Hardware",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:18:22.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "5a7442985701",
+    "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkRSeE5Vc0s5NXQ0bThBVFZoZU1JSUVBQmJTWDBuMk5tLV9oaG5tZXpDYkdRNTZpTkZfbjQ1OTQ2Q2NDd3JoNWxmM0pPelRfaGJlc2tfSG96eVh5d2hNT3QtNmNUelRhaTg2dnkxcWVSMWxmekduTWxNRDU5ZXdaM3BLeTBHbU1W?oc=5",
+    "source": "RockstarINTEL",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:05:33.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "5646cf5cf25c",
+    "title": "GTA 6's Day 1 copies sold have already beaten the Nintendo 64's lifetime sales",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZzRnaDJTOUUyVkZpSGljc1A4YXdsMkpiclh5RFhiTVkzRGNTUThwTV9RTGppV3RRdlVQdi1FSGFuOEpPT1lCWV9rRnVHak0zWXVqSVg4NTlraldjbDFHaml2MGRjSHlROWViRXVRQ3AxTjZZOC1rQmV2QVViVDQ?oc=5",
+    "source": "GAMINGbible",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "c218323f0906",
+    "title": "Three weeks in GTA 6 reminded me why human artists are so impressive",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUVjbkNlNHhHMjJmdzROMFNLbDlOdUFiRS1RVVp6ZzhlMlpDa0lHdTV6R2o5VldFQTlubVV4OE5Yc1FaVExHR2ZNRmpUUzlFdEJZanY5TkVyYzloYkFZMVFGMnhEVlV2UGM2ZGdQTlZ2aVdFeURyZERyaGx6YXFWTmxnLUJxSGo4WnZxRHhFVF9uYlVxQU1yMGd5dHRuUUV4czlhRXY1bnlfbmhKTThYV3pic3B5OGs3OVE?oc=5",
+    "source": "Creative Bloq",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "0e83fb399cd8",
+    "title": "How to Customize and Upgrade Weapons in GTA 6",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MeEkxVEV6bEdCSUo5MEFSY0JvM2NTb21nOFliWktzNTlyblN2cmFjS0NlRXpUT1cwM2FBdUNHN1pLTjNuemVrREdZclFVRVRueG1hUlFkXzZZcjFzLXVKckZjbkh3RUJmTUVpdGJmZWZ6TWh5c2liaFp1VzZWQQ?oc=5",
+    "source": "GameTyrant",
+    "kind": "news",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "2abfb8ee3883",
+    "title": "Can you free-roam after beating GTA 6?",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:57:14.000Z",
+    "summary": "You can keep playing GTA 6 after the credits, but there's some things you may want to know first",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "b902505aa0bd",
+    "title": "GTA 6 plays a lot like Red Dead 2. Is it a problem?",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UbjZuQzF1VmtiUm5tQTVsMDlJNnBabHpFdFJVVW1qbXpjUl9YX2JBcW41b29hb0JFVW5LMzBOdEFtTzAtMEYzTm9aVllDOUQzV09kbUNFdUNNUWJDN1FxQmU5czhHZ2xadlE?oc=5",
+    "source": "Polygon.com",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:55:17.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "b60bf3173518",
+    "title": "GTA 6: Should You Choose Cut Or Pure In \"Dealer's Choice\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVpJQWhvTDh3YmJITi02Qm5ZXzhIakJzRHM5TmVZUEpraVh1bVFaa2FRenZPWmlHbmdlQ3kyTmNDMkwwYzJxdEJEUFF4d0hzWlFVSVEwV1huYk1Ta1kwZUtlX3ViUlhiZU1DNFZ3?oc=5",
+    "source": "ScreenRant",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:51:08.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "a68c33c2cadc",
+    "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5weWZnSU1NaXVSOFhMNEtzUFJrTFgtZzVqX2psczFBY1pxcTRGekhqVWdsRDJUQjJMbGJtR1Frc01qT19zREZRQzNlWU5sYXdhc0dSazJRaGNtM3QweXREbndPV2xHUDRSbzFpY1dycDl6UUtwcG1PcDlPc3E?oc=5",
+    "source": "Mashable",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:48:33.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "4f278827d710",
+    "title": "Here's where to find the Riatas for Wyman in GTA 6",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WjJ1WGRwZnVfdHpseFVMTDU0Vm8wdjAtSl9XcWtZdzZKSXllVUEwOWJIa19YYWhDQzFwUWRkdVdhNVRxZ3VORU94eDZCcFFxc3lXYlloejB1cmtaMWtyUzhfODMtajhYUFhpWUFoWjBxUU1obEF4dg?oc=5",
+    "source": "PC Gamer",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:48:06.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "4fca34c1165e",
+    "title": "Grand Theft Auto VI has the franchise's the first non-optional female lead character",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWJsNXg5Y2g5WGR4LTJJQ3piekVkckVPUDZPWTd0b3UtcnFvejhoUWVzNUZQNmhETkxaVjdxX25jNjZWMjdkajBONjlScHBzczJiX3E2VU1oUGVTQlVRVGI4NVNmZkc3TnAzX01VeFVpQmdPWC1xc2JSVGc2QVlVVkM5NEVuekg2dFJiOXQzZm5XN2NxbkEtNWJ3bl9EWFg1d1RjdzNldTBmRVRYQllXNU9yZm41ZE1oNk9MT1dkX2gwZmV3VTgw?oc=5",
+    "source": "NPR",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:40:30.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "0372efb818d9",
+    "title": "Neuralink Participant Who Once Played With a Mouth Stick Now Takes On ‘GTA 6’",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGRIQjBUNUtkdjJMZnpXVkduQ1FGd01UZUhCeTlhZDhjZlJLMzhXQWhWa3U4dG54SXZTWXBZSkYxNE9VMlVfRDN1Qk1xNkJjNWhuQ0dHWkpsMTdnRC01dWhwZHVEZGNzWnNyMXlxaXJrRjIxZ0xoS2ZFeE1kNzBzeVY4UUV1MG5CSXRNelU5TTRuM0xDbFh3VzhhUFJWeV9xa0NlV3M0aVhudWxk?oc=5",
+    "source": "Men's Journal",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:36:55.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "d623e28ab074",
+    "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:32:23.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "92e358a8a3d8",
+    "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
+    "url": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
+    "source": "IGN",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:30:00.000Z",
+    "summary": "GTA has always been obsessed with cars, but in GTA 6 your wheels are for more than just getaways - they're your mobile base.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "78f559257773",
+    "title": "GTA 6 Riata - Grassrivers",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wVElqV0ZKZmtSc3RZWE9QNVlqaUNpTzdoSWFGeElVWHRERkRSX2dHc3l2S0FCY3hZWFRDVEVGeldZNHcwaXdKbG9TWU9TbjNhTC1VQzRMZ2U5MHpGTGtIWmRoc21CaC16T3JuWkFWS3NQVWpNMWtF?oc=5",
+    "source": "Yahoo Tech",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:27:51.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "1b69d0f62f06",
+    "title": "GTA 6 Riata - Southwind",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yaWE0VEl5RWxha1MzakhPX1BRY1MzQWpmZ0tIVVJJYTZhZy1MOFdkQzlJMWRYdmVVM2xsVDFFU2x6SXdWUU8ydGgyWXZ5ZzlraHVTSnN0UURkYkxvYmQtczQ3d1FyMVF3S3o2Q3BMcjF1VUxi?oc=5",
+    "source": "Yahoo Tech",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:27:28.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "6cbd5d299d7d",
+    "title": "‘Grand theft without auto’: Tharoor plays GTA VI, takes demonetisation dig at Modi govt",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82cm0zb2I1RUVSc0Y4RTRoRVQ5QVQ4OXo0WHhGWGJKRkt4WlpKQzkyeENfalZ2Q1hFVDhiVTc1N2FpR3pKOGM1VXhMSjRwb2VQMFlXMlF2VlR4UmVROHY3VFJtTW9MVTZoX0xRWEU4SDNocXZsNGV1UnZB?oc=5",
+    "source": "The Federal",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:20:05.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "eed8cde56dac",
+    "title": "5 GTA 6 Trailer Easter Eggs You Missed 👀",
+    "url": "https://www.youtube.com/shorts/V8XBfKfFyhM",
+    "source": "Vice Clips",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-22T13:16:50.000Z",
+    "videoId": "V8XBfKfFyhM",
+    "thumbnail": "https://i.ytimg.com/vi/V8XBfKfFyhM/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
+    "id": "b30e3bc2b65a",
+    "title": "How to Find All Skunk Ape Effigy Tree Locations in GTA 6",
+    "url": "https://insider-gaming.com/skunk-ape-effigy-tree-locations-gta-6/",
+    "source": "Insider Gaming",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:11:37.000Z",
+    "summary": "Here's a detailed guide on how to find all the three Skunk Ape Effigy Tree locations in GTA 6 along with screenshots.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "f19da41fa4cf",
+    "title": "GTA 6 Challenges – all 80 challenges to complete",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:08:12.000Z",
+    "summary": "There are 80 challenges in GTA 6 split across eight different categories to complete",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "5571a3d895f1",
+    "title": "Lana Del Rey’s Custom GTA VI Birkin: Old-Money Luxury Meets Florida Kitsch",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNHdwQ0lDNUpURE4xZWQ2Slk4QWZHWmhHU0VzaXFOOVBWVjRaUzlpcnZBWHdYVmNqeGIzUzJzNWJIR1hYYkNKcDZ4MkJQS0ZVa05HTWY4dGU0TnZnVzFwSG9FbGxsbGtvdUlwRWc0R3RmdFdxVkgwelhSLThOQWlCYV9ZcGpkR2MwWGJ0Q2tka2h3dUNtTFdHamE3NWE0TXFRdWFmWGJicmpqb3dMeXpqTVZ2bDBDNkE3?oc=5",
+    "source": "New Wave Magazine",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:06:57.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "76bd1d1863f2",
+    "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:04:45.000Z",
+    "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "b6511cd566dd",
+    "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
+    "url": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
+    "source": "Insider Gaming",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:03:25.000Z",
+    "summary": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "a49faca7aef4",
+    "title": "Where to Find the Gauntlet Hellfire Car in GTA 6—Randy’s Wishlist Car Locations",
+    "url": "https://insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6/",
+    "source": "Insider Gaming",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:03:21.000Z",
+    "summary": "A quick guide on how to find the Gaunlet Hellfire car in GTA 6.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "be2a0b58afef",
+    "title": "Ranking GTA 6 Best Moments",
+    "url": "https://www.youtube.com/shorts/y-rlTzguu4w",
+    "source": "Deviluke",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-22T13:00:36.000Z",
+    "videoId": "y-rlTzguu4w",
+    "thumbnail": "https://i.ytimg.com/vi/y-rlTzguu4w/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
+    "id": "a6bd5a71c7ee",
+    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+    "source": "Polygon",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:00:17.000Z",
+    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "62a7de176aea",
+    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+    "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+    "source": "Push Square",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:00:00.000Z",
+    "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time, GTA 6 has already broken another record. The game’s official album, which features all-new tracks from…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "afeca4d6adb5",
+    "title": "Kalshi hires 36-year-old gamer for $120,000 GTA 6 job after receiving 33,000 applications",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONk43UXEwR1NGWnhVTGtuN0ZwQlVrNFBSY0VjeWxYc0JZUk1yLUYweVhTZkVjUHhTcUhYTFF2UUE4bDRSU1ZSdURTTFlxdVJUM1FlcS1jbm1xLTh0VHhmYW4tdk5mUnk1ZmM0dDJZNjY4T1NYdHkwbzNPTTVMTkFXS0dxXzAzOGxLZzh2Z1p4a3BoVVdRU2huNnR4WFdidzJiQWs4djFST2JnazkxY3pZeEJ6MXhZVHFxcVVKWlB5NlZEeVFHd1AzMnYzNlZMa2REajJpcnpNejBQMHRWVmRBOUl0R2VGQnJCR20xTmlXSEZvVk5aeHFkODRKLVFYdWYycjFCRkdNLWdwZ0JjX3hDVVBRcEF1Y0gxRmh6VVYzcmJOUUV5T1FLMmRzMDl0eU9WdWJKcWctRERIdWZzNGc?oc=5",
+    "source": "The Times of India",
+    "kind": "news",
+    "publishedAt": "2026-11-22T13:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "9e391854d5fd",
+    "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
+    "url": "https://insider-gaming.com/backyard-wrestling-gta-6/",
+    "source": "Insider Gaming",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:55:43.000Z",
+    "summary": "Here's a guide on how to find Backyard Wrestling in GTA 6 and how to defeat The Gentrifier to get the Luchador Mask.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "4621c5b28d42",
+    "title": "Miami Heat NBA Game Draws 95% New Shoppers For GTA VI Launch",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wbV83R09pbGd1LWl0cWVUTmRmSGktS1VLS3B4OVJWYTVDV0owTkFRQ2dULVpMQzhkY3RNSHpMOFMtTGROZS1uSGNKb3JrT3U5d05CaFhIUHVJOGY5T1hpdXRQRVg3MmFqcGRCLU9OUXpIT3pwVEJlOVhnNy1CTGc?oc=5",
+    "source": "Yahoo Sports",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:47:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "3e0330b63973",
+    "title": "5 hilarious encounters we found in GTA 6",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2d6T3BtMkdXSWdzVGhjWXMzWm40aDB6RkxOWXphbkZ0V1BfQlRvMkJDdDZjMXZGRTF0MlNqU1FVaFkyV1ZOWkt0d20zcWl5Ny1wQTZIMEk2SENxZm1xVjYyS2ZyVnFRc0s5NWZlYUV1SlhsOC0xU2xoemtZRmRwM1dBNA?oc=5",
+    "source": "Yahoo Tech",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:34:01.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "55a65472b3ca",
+    "title": "GTA 6 is a critical masterpiece. So why all the hate?",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CS1puUjRfRzhHYWk3TXdYdkM4ZmZYX2NPTFBNa0xGQkp5VWxtRzU2ZHZSUXpUbzdXWU5hYzRpNXRkVGt1RmktNUxTbVRuSm52bmEyREoxSTExRkR0WVFvandNc1BHM3czc2JTdA?oc=5",
+    "source": "Ynetnews",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:32:54.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "07c01080072e",
+    "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:32:07.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "32998240e4f9",
+    "title": "'Grand theft without auto': Shashi Tharoor tries hand at GTA 6, takes swipe at Modi govt",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGwwV0U5M05udnJyMGFXblpMVTNtMEE3YkduMlFwRWpZb21haVRuMG8yM1NkRmwwelF2ajFlbFZremlvaE5NbDFlbWhxSGRpR1lhVklkLTRlbHJpZG1BN3ZYRUVhYnl6SEthTUxrRnlkZDhUaF9yMEZaUnhuaU9OcDlLVkotT2JwT3VxUktzTk1lUlNhQXVaMlNLMi1KaFloY2JZZ0lYLUtrNDVQbEtyaGVTZmg0WmlyTllOWXVLSFk4ZjVKd3V5Q1V6S3RLMDBpUnd2Tzc5RWVkZnZDSjVacW0wVlo0TlHSAewBQVVfeXFMT0ZBbzAycWhCckg0RWR6OEJVNUU4U0t3R1NkN3JIOXpHSEZCZ20tRHNxZzBreHE1enhfVUl6Ql9OeHNfak9YajkzZHh1ZnFxWWc3b3VPQ3VobEhmMnhCdnNieElNdWVkRUJYUTJId0xXODh0R2ZsVGcxRW1uZTFseDktOTd6ei1MZVRGekhUM09LN3A3RnFUVDRTbHFJVTRULUFUM3lrdlVsMnB4cTRLRG1KN2V4WDA1dFdEYjVMMnEycGducm5iNW40bTI4RmU0RDdwSWNLSFhfeTV6d1ZnRnJENm5DS3hKRVMzc3k?oc=5",
+    "source": "The Times of India",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:30:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "b1746056fae1",
+    "title": "GTA 6 Leak Fuels Xbox Emulator Rush, 188 FPS Test",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHJpNldRUm1ZUElCYUFvVU5IbnNjZTl4eGVGM1hhSFhuZWQ4R19iT0hCejl5eFJCWG5uUjI2OTBaaXFsZ0JrZ3YybE5FcXBKNFNuVlpfV3dZRDFYZzdORG54NlNWbUJ4LWxPMXhvWVQwZUVlTmZqdVVhUTJyRjVBNjFyYlFnR0lXaGRnQ0g3TDI1WnUwVnhSU3ZTTUtaamhRRGFF?oc=5",
+    "source": "shattered.io",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T12:23:59.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "1a7cdbda411c",
+    "title": "GTA 6: Where To Find The Patriot Cat",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
+    "source": "Cultured Vultures",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:23:27.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "b9bba81c4cc2",
+    "title": "Where to Find The Piccia Furia Supercar in GTA 6—Randy’s Wishlist Car Locations",
+    "url": "https://insider-gaming.com/where-to-find-the-piccia-furia-in-gta-6/",
+    "source": "Insider Gaming",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:16:58.000Z",
+    "summary": "A quick guide on how to find the Piccia Furia supercar in GTA 6.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "89fa8b217922",
+    "title": "GTA 6 review bombed on MetaCritic - and it's sadly exactly why you think",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53Y015TnpGSHEyMEFVaWN6NXV5azlWRTV3US1mVFJ5WS1oRlExQmZXTkFsamwzeXF5MXhaQWxzSzVZbmR5Nzk2bXljSWlpMlBYRUhMVXk2bURrQ3V3RmxHRWE3RGV0cDNYRVY0dlYxb2xtTkVNV0dvRDB3?oc=5",
+    "source": "Indy100",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:16:30.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "fe02a25e95c8",
+    "title": "Heads Up, There’s An Easy Way To Know Which GTA 6 Buildings Can Be Entered",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmFWdmZCVWtIX2kzZTlTWlh5UHBZdTFLWHNqdWw2WHBpeW53WWJfRGVXZHUxaWVJRFlQbTRuRHRTaEcwRTM3UktEZ3pKbS02X2RfNVlSR0h1OU5hVDczV0VWYzhCZTFOSDhMTm5ETFJxeEY5V3RpM0VHWWVWWTFlQ0NhQnFPbTRzXzZyQWVlTElBclU5djR5QWhDNDJ0LWlqUFAtRXRrLTU5YnM?oc=5",
+    "source": "OpenCritic",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:14:57.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "1e91b51ae7c5",
+    "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
+    "source": "EU Perspectives",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:09:04.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "90ebdca55f21",
+    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+    "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+    "source": "Eurogamer",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:02:30.000Z",
+    "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "dabcb9860026",
+    "title": "GTA 6 players spent over eight hours in Leonida on launch day, and over half of active console players joined them",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UjdpUFdhUkhmOThuMTBHUngzTUlIbVZHRzhwWjVjeXdLeHN0czZMLVNlQ2puWF9TLUhsSHF5X0NFMGlnMEE2ZFBRM1dDUmJZSmpLTU1CdWVhSHBkdlJtNUdCQmduMHN2UmlJTW1R?oc=5",
+    "source": "Eurogamer.net",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:02:30.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "e023d55d50d9",
+    "title": "How Miami Heat’s GTA VI Vice City night sparked unprecedented $1.5M merch frenzy",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1B0eGlQWmZnd3BpMWgteHdhSHh3amdjVXRBMzQ4WHo5Q0VqWlRkYUlYY3NCN1c4Z1Itc2dBbG8yVXZPRXAyQ0lRc0V2S1VpcnVNU1ZmTk54Q2FHVEJFdjRKTmJfTm5WYzRndTE2aGpxR3BqZXZkcTFaNldNWGxHaVlXN1FUOThUSF9YeWtDZ2lrZjA2dzJZUjRiMlg5MzM5emc?oc=5",
+    "source": "The New York Times",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:00:19.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "56181678e0ee",
+    "title": "GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2IzQTg1UEZWXzZpTC15ZFp3RHdudHhDZjJMZmotdHhLR29mN1JHUzlEdDM4Wk02aXpMS0NDdEw1SVhQc1ExRldCVGc4S01RdUdHWVpLelVPcFJMb0pIdGYyT1dWLUVjUGpPbnlyUkVETGpJWTZTX05JVl9kdlJRYkYzMl9GamdJZkE2R3k1WGE5NFFQ?oc=5",
+    "source": "GAMINGbible",
+    "kind": "news",
+    "publishedAt": "2026-11-22T12:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "d07a9e0a3d99",
+    "title": "Neuralink patient plays GTA 6 with his mind",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zeTNOTWkwU1JDVmhaYTBXWERVXzk3dFM5VXlZME1RM2FmYUNvY19BNzZRZUNtM2NaeVQwSlQ1SVlLS284TVFkMENfTHZQaGZxSTlWMg?oc=5",
+    "source": "mobidevices.com",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:58:40.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "61585c1e0d0e",
+    "title": "GTA 6: How To Make Money Fast In Chapter 2",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVMGxwMjRidXljUFRnc3BjaUZBQm1YWlY2NFlZRDY4WGJGNEFiMTVrUTZfNW92NXdfSVE4UmxqYW1weS1ILXhMUlNOWjA1YWlzNmJCRGJLa2VTRnVnVUlJYk5TdHNaUQ?oc=5",
+    "source": "ScreenRant",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:57:37.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "7153ade9d02a",
+    "title": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkFHMkpDLUhFcFpxOUpBR3dkNm0yTHdTVVN4d1dteEpUU1BIQ1lmcjZRaTJ5cDlyQ3hCa1lhR3NsU2FVSC1xUTdWc1dYYUtvcUQyLVdTVHpPWlA3MGFSVlM4ZEVSRUhUVWVFQ0xzYV8yT3g5MzgwSG96YkdMbmJKZzU1V29vdUU?oc=5",
+    "source": "RockstarINTEL",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:33:11.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "c5dcc63d4331",
+    "title": "GTA 6 PC Version Release Date Update Suggests It's Closer Than We Thought",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z3NZVEI0cWJHSmw1T3RpSXdaU285U0NJX3dMNEdiZURnNXFWYlp1YWE5WGwyRGFvVnlkRnNpSmNWT2Y2clJpdnkyVVM4TlIybXZhOGZPWWl5MHZwMlpvU2tNcEtrUzMwLVlWcmJnTVMwYXBS?oc=5",
+    "source": "ScreenRant",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:30:18.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "1d1e61bb4a36",
+    "title": "Jordan proposes GTA 6 ban over child safety fears as game breaks sales records",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk8wTXpnaUFOM0NPOXR6VkNpa0xSZjk3a3VnOElzOExwOVRvSGppb3htelI5T2VxdXZnbVNUeDcxazAxRkhxX2w3aWxFaklHeDhRaTg0eWUzX19nbXFSeXBFRTNpY2ZOVU8zTXNSNXF2UnkxMk5TNTlHVXREbTItX0hEeTV4dllDdVFEOGZZendITl9XRmNCU05KanhsZ0YxQUFjZFZiS0FqSDFWV1VKSk5QM1I4TGhSMDNEUlZBR0F0NFJycmg3dXBTdEc1LW5QeHFiWHFoNDQ5VGpiUTRNYw?oc=5",
+    "source": "The National",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:22:51.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "1efd62da292e",
+    "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+    "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+    "source": "Eurogamer",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:22:10.000Z",
+    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "45ec8b808579",
+    "title": "How to flip an overturned car in GTA 6",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/",
+    "source": "GamesRadar+",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:13:33.000Z",
+    "summary": "You can flip your car with brute strength in GTA 6.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "f348dcf158aa",
+    "title": "15 brands trendjacking GTA 6 without official partnerships",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLTZPY2tPOXNfUkJNVzNMODRjblNhVktlb2V6VmVaTC1aZ3NOWE5paDMwbTNkc18wRUJUOHJVVHE3RWJmeVpvb2pnc3JTMjdVNlQyUWFLbVZ2MjQwbmtsN2JhT0xVQU9PSTA5MzBR?oc=5",
+    "source": "ContentGrip",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:10:25.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "e9066fb86ea8",
+    "title": "Is Rockstar Games’ ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Vxd1UtQUV0bWdZY1ZhSWFVSFZoamNFd1o4UHhBX1kyTTcyem1iejd2SXk4eVV4Y1NOV2MyUXdmQWV5NVB6a29pcUctVmU5WUtaOGRCcFpFYldNZDVVRXFrWm5aVmNETjRNbWpPOGNnTmUzbWlycUlPbGVITm1DbWVoQWdCaDFmMk0ydDNNQ09qaVdoNkhfejJpQ1JXazVSOTRiaENWZG1uV2JxeUFn?oc=5",
+    "source": "WSJ",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:10:05.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "2dea809028af",
+    "title": "Grand Theft Auto VI and the Dark Side of Gaming Escapism",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1FJYXFfeDl6d25RNkNLX2JYel95LXJEcGtjQlZHMUlkZVNWZVhNMnlxWnE3NVI3ZkxRY2dTSmgtcXdJUWJ0UWUyVHBuTUdJcFhDbENZdXFVbWFLV3U1ZTlKZjVnTGFpdkVzT2VaSVgwbkZkZTc1N1dhVi1FUXo4SkhhLUVRQk1sa0trZFkxazBya21aSUxZUmNCRQ?oc=5",
+    "source": "National Review",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "e2f193624487",
+    "title": "Rockstar spent months on one detail in GTA 6: Lucia opening a door with her hip",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkQyczhVOEVEMlh5OFdLS2xFR05GbFB1b2d2Y2U2WEp5X3hEYWFmaVJRS19relpNeWViQnpVeVJvdVRlakR6bEtaOXBHZDlBeHh3NDBZNURZLTBjWjBLSG5WSWxHSTVBWUctOVZFTTBKdEZ1d0xORE45cEpwM1RCaGpNeXQyRkxxQVh4am96WlhrR0pSTHJfWUx2Ul9KdE05aldBRlk0UGdBdjdGX09XQUpR?oc=5",
+    "source": "Creative Bloq",
+    "kind": "news",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "806be302b577",
+    "title": "GTA 6 Modders Advance Unofficial PC Port After Xbox Leak",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROVJvandfZEdlSjU3LXJsNmZHNnV6ZDB3cmNsbXFWWVVFS3hucWRRQW11UnZPaWNZcE9hLXRxaENqTlhCUVk0NlY3QWl4Sjg0bVBLWFVBRURLQQ?oc=5",
+    "source": "cwibc.co.id",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T10:49:21.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "ad24dbe939e0",
+    "title": "GTA 6 CarryMinati Roasts Audience 😱 Lucia Jason | GTA VI Shorts",
+    "url": "https://www.youtube.com/shorts/oLVzADZAfoA",
+    "source": "Unrealistic Foot",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-22T10:47:17.000Z",
+    "videoId": "oLVzADZAfoA",
+    "thumbnail": "https://i.ytimg.com/vi/oLVzADZAfoA/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
+    "id": "27707e1397ab",
+    "title": "GTA 6: How to Rob ATM Machines",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYUUV1RHI0VWh4UkowN2pRR2VJbExaYXpmcW5zU1VLT2xpS2tsRDRKeVE5NWlEbVBmeU1sOWtQNDlMNGdWVWR3aXRsaGRvQVFld1VKcWFJZWVER0JSY0l4bXhKZ3ZUYzliV1NJ?oc=5",
+    "source": "DualShockers",
+    "kind": "news",
+    "publishedAt": "2026-11-22T10:40:26.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "9e11ed43d656",
+    "title": "GTA 6 is breaking sales records! Should I buy this S&P 500 stock for my ISA?",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzdFSDZLWGZhNEh4SngtV1hpZTc4NXlBRGk0R3R4NXl1M3VmLVBnY0ZNVVVvdXVMY19sWHk0dHB3eUFSSk8tSlpzWENqWHE3MU42VXg2MXo3QUw2NkNzVzNpTGZsTGQwT3lCcnZCRTI5QTBRaEtjT0xCWmJ1VkItWjFuOA?oc=5",
+    "source": "Yahoo Finance UK",
+    "kind": "news",
+    "publishedAt": "2026-11-22T10:17:29.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "dbc0c7880bb6",
+    "title": "GTA 6 is facing its first plagiarism claim just two days after its release",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09uVXNja2p5RUNmME0zLWdvLUQ2WDdYX05xOV8tcURGeHphS1d2T01CaXlZTm9hcmVDSl9jMF9VWU1QWkNTOFNYdmJkMTEtSnRBWFZsWkVyTUd0VFBqdHFkSHo1Y0xqeVdHaG1UcG5BdVNKb0NTVEFNWjhnQllSNkF3VGRhNFc5UVBjaEdIY3Y5VTZzZVlkM0g4TVhsR2gxMU5hTF9RNDktUGZvaWxjNXNHVGVTaVhvUUM4?oc=5",
+    "source": "Notebookcheck",
+    "kind": "news",
+    "publishedAt": "2026-11-22T10:16:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "84b129d286a6",
+    "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+    "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+    "source": "Eurogamer",
+    "kind": "news",
+    "publishedAt": "2026-11-22T10:00:10.000Z",
+    "summary": "In the decade or so since Grand Theft Auto Online 's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads, and speed freaks. It's a game that allows players to lose themselves in the roleplay, the heists, and the crime…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "4cb8fbe4f01a",
+    "title": "How a piece of Detroit ended up inside GTA VI",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEs3VjVsMUhCVU1sX09CS3FTaDA5QjRuMS1Ja3NtX0ZjczRZd2NaakhSSmI0WDhadTZYMWkzNC0xX0Z6M3VqdXJNV3JqYkg4aEZ3bHFOQ0pPdm1ZSXFTakVpR2U1SmxOZjhkV24tWlBCSy1qWVZyS2xJajFWSi1CX2JiYnFjZkN0eFpEd1ZKSllZSHZGWUtUWjNYRmZlbk1k?oc=5",
+    "source": "ClickOnDetroit | WDIV Local 4",
+    "kind": "news",
+    "publishedAt": "2026-11-22T10:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "e691eec9ce62",
     "title": "For all those who say GTA 6 isn't much of an improvement over GTA 5... Writer: Ian",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBETU5QcXV0WU8zbDR1eXN1cXp0VHlaZmpfRmtXVk8zMmMwR29GNlEzM2xES1pGb0JrRVFRZ1V2RHVTSXVYSDVBMUstZ3hCeTkxQlNyZ3FGN2Q5eURvYk40ek1BV3V4TW00bzNhSQ?oc=5",
@@ -93,6 +823,18 @@
     "firstSeen": "2026-11-22T09:52:05.177Z"
   },
   {
+    "id": "228f5a26a247",
+    "title": "6 GTA 6 Combat Moves Nobody Knows",
+    "url": "https://www.youtube.com/shorts/aTGDUmLp7hs",
+    "source": "@DeadassClips",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-22T08:15:27.000Z",
+    "videoId": "aTGDUmLp7hs",
+    "thumbnail": "https://i.ytimg.com/vi/aTGDUmLp7hs/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "56932f8ceb64",
     "title": "Riding the bus in GTA 6: can public transport help you shake the police?",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSlJhaWhTQXhyZUJ2S3ktMlF2T2psUm9FYzNEcFlKcFRvUGd5VzZMNEdxV3ZMQko2U2dvdGhYeUZYTnI5UnpHSFBfaDU3clJvY0s0N1FPQ3VwbVJEUUpjNlFuWU16Tm1FNVJIVFJOQkpXcmMzYjJrd2xQZkFQSkdELUdqeHFGeHdjUUk1aTZsWDViVlBs?oc=5",
@@ -147,6 +889,16 @@
     "firstSeen": "2026-11-22T09:52:04.975Z"
   },
   {
+    "id": "32259f92c483",
+    "title": "GTA 6 Early PC Port Rumors Grow as Xbox Build Leaked Online",
+    "url": "https://beebom.com/gta-6-early-pc-port-rumors/",
+    "source": "Beebom",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T07:11:00.000Z",
+    "summary": "The early GTA 6 PC port rumors heat up as files allegedly leaked online shortly after the game’s launch. The 209 GB Xbox build is reportedly missing its main executable, while a separate video…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "df217eea0eac",
     "title": "Lana Del Rey carries a one-of-a-kind Vice City-inspired Hermès Birkin at GTA 6 event",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckJvUzA3UmQ5VFZKc1g3WHF6dmRzZFowdVdUS3M0ZFp0RUdCTDhuWkJHbDhEMWd6dGl6SWpHdDNyazg2cl9oOGljV0FuN3NuWXg4N29VamI2RjEyY0MzNEtQRFRUUE8zejc1aWo1VFBfdEhPbkR0OHBERi1mcXFXTkRUUzdpNGpyVUxsbGdWbDFvUm45ZGpiS1REbXo4WVBNekJNaDJJT0xyT281aFBfazJlLW9aMlZSNHVBaEtEcVJGRnV6UFpWSDh6blR3Q1FfUV9KVXBvMFpJYzZIQnV2MGlEY0RtY0HSAfQBQVVfeXFMTVZVYm1WazRHaGYzNUdSUm1jNWpSMjI4c1Mtc2tWSWFkbWNKeHpnaE9sNnJjcG81NzN0cnhzal9XTm5EQVVGdXh3SHFscGhjWlQxcHB4YmdoRVNSNEJUYnFtMk5mODNxQzJGZnBQdk5XZTFGMjk5b1RfYl9lVjhNWS1fOE5nU1ZxY29VckJzTXN1S28tcFVzTlRjMnJYQ0tzeS05bENCdWI2QmNLN1p2YzFMcDlST2EzYkstUjM0U2VTSHpoMDg4dXZuYUg2YUZJWTEyWHJNSThtZm1xaUVsRFl4dHVFX0g3MDJhQ2dhR1ZVNWNoaQ?oc=5",
@@ -165,6 +917,26 @@
     "firstSeen": "2026-11-22T09:52:04.975Z"
   },
   {
+    "id": "7f48b7c40fb3",
+    "title": "Is GTA 6 Connected to RDR 2? Shared Universe Theory and Lore Explained",
+    "url": "https://beebom.com/gta-6-red-dead-redemption-2-shared-universe-connection/",
+    "source": "Beebom",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:55:00.000Z",
+    "summary": "GTA 6 features several Red Dead Redemption 2 easter eggs, but are the two games connected? Here's what you need to know.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "35fc957ca4f7",
+    "title": "Storied Dev Has Harsh Words for Grand Theft Auto 6",
+    "url": "https://gamerant.com/storied-dev-harsh-words-grand-theft-auto-6/",
+    "source": "Game Rant",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:46:00.000Z",
+    "summary": "GTA 6 has earned praise from one of gaming's most influential developers, but his warning about Rockstar's blockbuster could spark a bigger debate.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "e3e136fa7fbf",
     "title": "Greek PM Asks Youngsters To Get GTA 6 For Christmas, Faces Backlash. Here's Why",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0plcE9yczh5VXY5eGdOaXdwRGx6RW5ZQUdsQmZZeGo5YXFZcU5sdmVVU0hlNy1QU3lSZFVQZ3Z3eEN5el9XRktvd19EUzdndUlFVnBERXdTaDV1a2M4d3RMRWItMURxbUZldFdqNERKdGhhd1pqUGphRmhvRlU1Q2pqekFDSkNmaGZzdmxINHQ5TkVFVDVTUjl6d0w5eWp5QzRCQW52X1VfUVRFRnJOMlRoN0pwU0Ja0gHAAUFVX3lxTE5ZTGFjeEsxajNxWEFtTTNBSHhZbG5mMHRsUUlzemZ6SW01NzF2MW1mLW9hUnBmcG9KV2NmRW5IU1YzWnNnZU5oLTd6MGh0Z1BpMlhvREdPbGVlYXp2amVHQjk0cG1keVl1UzREOWlPQ1VDb2tWN3RuQjJLLW1YOGdnM0pINktXbjdoU2N3X3RoVDZIcTl3Z21oZ2tsVllTWHVzNUU1RkZjTVVOSy1tWHNsXzlQeFpCZWFkTUhNdGUybg?oc=5",
@@ -172,6 +944,76 @@
     "kind": "news",
     "publishedAt": "2026-11-22T06:42:47.000Z",
     "firstSeen": "2026-11-22T09:52:04.975Z"
+  },
+  {
+    "id": "68b42ce763e8",
+    "title": "Who is Cliff Savage? 36-year-old streamer lands ₹1.13 crore job to play GTA 6 for US startup",
+    "url": "https://www.msn.com/en-in/money/general/who-is-cliff-savage-36-year-old-streamer-lands-1-13-crore-job-to-play-gta-6-for-us-startup/ar-AA2hYj37",
+    "source": "Mint on MSN",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:41:20.000Z",
+    "summary": "Cliff Savage was selected from a pool of more than 33,000 applicants who applied for the unusual position.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "a9c46bcc768b",
+    "title": "A GTA 6 Self-Aware NPC Knows He’s Living Inside a Video Game",
+    "url": "https://www.mensjournal.com/entertainment/a-gta-6-self-aware-npc-knows-hes-living-inside-a-video-game",
+    "source": "Men's Journal",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:40:00.000Z",
+    "summary": "Players discovered a GTA VI NPC who believes he's trapped inside a simulation and may have figured out he's living in a video game.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "490dfc617fad",
+    "title": "Where Is Mandy’s House in GTA 6? Location and What Happens If You Go There",
+    "url": "https://beebom.com/gta-6-mandy-house-location/",
+    "source": "Beebom",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:40:00.000Z",
+    "summary": "Wondering where is Mandy's house in GTA 6 and what happens if you visit her as Jason again? Find out in this guide with all the answers.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "b1f2903ccc37",
+    "title": "US startup hires streamer to study GTA 6 as full-time researcher",
+    "url": "https://www.msn.com/en-in/gaming/general/us-startup-hires-streamer-to-study-gta-6-as-full-time-researcher/ar-AA2hYAia",
+    "source": "NDTV on MSN",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:35:27.000Z",
+    "summary": "US startup Kalshi hired Twitch streamer Cliff Savage as its full-time GTA 6 researcher after reviewing over thirty three thousand applications.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "1fa2d8c0ad19",
+    "title": "8 red flags that Lucia has in GTA 6",
+    "url": "https://www.msn.com/en-gb/entertainment/celebrities/8-red-flags-that-lucia-has-in-gta-6/ar-AA2hYj2L",
+    "source": "DualShockers on MSN",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:30:00.000Z",
+    "summary": "Let's face it, in GTA 6, Lucia is not the greatest role model. In fact, she has some major red flags.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "e93dd92fb503",
+    "title": "Greek Prime Minister faces backlash for asking young people if they want GTA 6 for Christmas",
+    "url": "https://www.dexerto.com/gta/greek-prime-minister-faces-backlash-for-asking-young-people-if-they-want-gta-6-for-christmas-3430411/",
+    "source": "Dexerto",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:24:00.000Z",
+    "summary": "Greece’s Prime Minister Kyriakos Mitsotakis has come under fire after asking young people in a TikTok video whether they’d be asking their grandparents for GTA 6 this Christmas. “Which of you will ask…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "eb423c6809fe",
+    "title": "Fox News Host Joins Chorus Of Right-Wing Voices Raging Against 'GTA VI'",
+    "url": "https://www.yahoo.com/entertainment/movies/articles/fox-news-host-joins-chorus-141803333.html",
+    "source": "Yahoo",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:18:00.000Z",
+    "summary": "During Saturday's edition of the network's \"The Big Weekend Show,\" host Joey Jones aimed his outrage not at the perceived \"wokeness\" of the game or the violence depicted in it ― instead, Jones chose…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "d311f5d19475",
@@ -190,6 +1032,26 @@
     "kind": "news",
     "publishedAt": "2026-11-22T06:08:21.000Z",
     "firstSeen": "2026-11-22T06:38:20.272Z"
+  },
+  {
+    "id": "d0fbcceab89b",
+    "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+    "url": "https://www.purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks",
+    "source": "Pure Xbox",
+    "kind": "news",
+    "publishedAt": "2026-11-22T06:00:00.000Z",
+    "summary": "Interestingly though, over the weekend, players have discovered the ability to activate what some are calling a \"60FPS Glitch\" or \"60FPS Bug\" on Xbox consoles, forcing the game to unlock its FPS and…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "76239cab606f",
+    "title": "GTA 6 Has Been Crashing on PlayStation 5 Consoles With Major Error",
+    "url": "https://www.mensjournal.com/entertainment/gta-6-has-been-crashing-on-playstation-5-consoles-with-major-error",
+    "source": "Men's Journal",
+    "kind": "news",
+    "publishedAt": "2026-11-22T05:46:00.000Z",
+    "summary": "Despite many people enjoying their time with 'Grand Theft Auto VI', some are encountering crashes with error messages on PlayStation 5 consoles.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "864e7fcaf74b",
@@ -237,6 +1099,16 @@
     "firstSeen": "2026-11-22T06:38:20.272Z"
   },
   {
+    "id": "6e59291647a4",
+    "title": "Grand Theft Auto 6 Leak Comparison Shows You Should Never Doubt Rockstar",
+    "url": "https://gamerant.com/gta-6-leak-comparison-never-doubt-rockstar/",
+    "source": "Game Rant",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T05:24:00.000Z",
+    "summary": "For Grand Theft Auto 6, Rockstar had huge expectations on their shoulders, and after years of waiting, they have finally proved the doubters and leakers wrong. Ahead of GTA 6's release, developer…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "3f8cc9064057",
     "title": "All Casa Guardia Robbery Key Valuables Locations - GTA 6",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSElfS1A1aWNnV1ktZThfbkNsVXZHYXFFdkhlNzBraE5IZXlEbGV1WVZBV1JqWDVqSkI1dlRuQVNabXM4eWRYaTZ0VS01bFFzNUVnZFNuSkhKbDBjbG1UQk9ramk4SEU1Vm5ZcW1uZy1Nd3dSbXh4bS0tMnlHZ3dfM0Q0aw?oc=5",
@@ -280,6 +1152,16 @@
     "kind": "news",
     "publishedAt": "2026-11-22T05:00:03.000Z",
     "firstSeen": "2026-11-22T06:38:20.272Z"
+  },
+  {
+    "id": "cc2ca862a502",
+    "title": "I tried to play GTA 6 without killing anyone, and, well, you see…",
+    "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail",
+    "source": "Polygon",
+    "kind": "news",
+    "publishedAt": "2026-11-22T04:59:00.000Z",
+    "summary": "Look, I never learned how to drive in real life, and am not the biggest fan of it in video games. Driving for more than a few feet without hitting anything or anyone is an impossible challenge in…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "ae38c726577e",
@@ -327,6 +1209,17 @@
     "firstSeen": "2026-11-22T06:38:20.272Z"
   },
   {
+    "id": "fcba16e58d62",
+    "title": "This GTA 6 NPC actually knows he's living in a video game simulation",
+    "url": "https://www.tiktok.com/@alfredito_mx/video/7710843508432604429",
+    "source": "@alfredito_mx (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-22T04:10:57.000Z",
+    "videoId": "7710843508432604429",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "f82fc071dfd7",
     "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
@@ -366,6 +1259,16 @@
     "firstSeen": "2026-11-22T09:52:04.975Z"
   },
   {
+    "id": "1d7725e98c45",
+    "title": "GTA 6: Catch Me If You Can Trophy Guide",
+    "url": "https://culturedvultures.com/gta-6-catch-me-if-you-can-trophy-guide/",
+    "source": "Cultured Vultures",
+    "kind": "news",
+    "publishedAt": "2026-11-22T03:49:00.000Z",
+    "summary": "Catch Me If You Can is a trophy/achievement in Grand Theft Auto 6 that asks players to “Make an unscheduled departure at VCIA.” That certainly narrows it down a lot, but it’s hard to know for sure…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "e68484172a81",
     "title": "I Expected GTA 6 to Struggle on the Xbox Series S. Instead, I Couldn’t Stop Playing",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnpBN3A3T0VnYkxyX2dzbEVlTFZyZm1LU3RwUlpwakdNSGZFMnYtQWF4TDQ2VDlrcVQxMHdYN3hEQTVKT1MtR0R0dGcxMk41bmM0bHlHVEJMMlYyUDA2NmJoWHplR3N0SmtPUU9oWF9Hd2NEc1hKcW9sTElLRm9TUWxpR1BFRlZRVWdsSWxEZEdGTUgwQUpBMU0wN0x3UUNQSzdmRzEwQ2NvSWl5RUkzdjV0b21DRHc?oc=5",
@@ -396,6 +1299,16 @@
     "firstSeen": "2026-11-22T06:38:20.327Z"
   },
   {
+    "id": "4b0184f83d2b",
+    "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+    "url": "https://tech.yahoo.com/gaming/articles/jasons-stoic-character-grand-theft-112324636.html",
+    "source": "YAHOO!",
+    "kind": "news",
+    "publishedAt": "2026-11-22T03:23:00.000Z",
+    "summary": "It's already clear that Grand Theft Auto 6 has a very different timbre than most other GTA games. While criminal hijinks and acerbic satire remain part of the experience, it's also much more…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "6e07bd754cfb",
     "title": "'GTA 6' crimes? How about chores: Gamers are getting wrapped up in all the mundane tasks you can do in 'Grand Theft Auto VI'",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWhqQ3dsLVRvXzZKcmllQUc2YXp4TWJLUmtxRGlfeXZZSm85c0x3Qm5JaXV6b1ZNdjk5dDlFVFRWblFpZDhnSDJmNXo4T1F2M2M2dHljdy1hODlaUXFVanRHR2g4YVd0SFNVZVlaWnFEUXUzQmtyanhWUWZDR1lEN0Nuc1Q4ek1fU0Q2bXBoNUwyYUY2MGNYTFVPaTVteFhNRU5Tb1BRTmFYRjY3eWcwdUl5MXJLeDlYRVdfMnRHQVNRQVNLZFF6TWUwczhFa0U3LVB2V042N0FLX1FBSjAyZkNnZV9icVBFMHdMVDcxdFc2SERCbzdhSmNXY25MZkRP?oc=5",
@@ -424,6 +1337,16 @@
     "videoId": "Vo7uUJh5_SE",
     "thumbnail": "https://i.ytimg.com/vi/Vo7uUJh5_SE/hqdefault.jpg",
     "firstSeen": "2026-11-22T06:38:20.327Z"
+  },
+  {
+    "id": "6fc03f4a1306",
+    "title": "Grand Theft Auto VI is a hit. What does that say about us? | Opinion",
+    "url": "https://www.tennessean.com/story/opinion/columnists/2026/11/22/grand-theft-auto-6-gta-vi-video-games-screen-time/92910077007/",
+    "source": "The Tennessean",
+    "kind": "news",
+    "publishedAt": "2026-11-22T03:10:00.000Z",
+    "summary": "Grand Theft Auto VI arrived Thursday, and the reviews read like the Second Coming with a getaway car. What could possibly go wrong with a dystopian digital wasteland where you can do nearly everything…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "e237eeef9cc3",
@@ -510,6 +1433,16 @@
     "firstSeen": "2026-11-22T06:38:20.272Z"
   },
   {
+    "id": "c8c67f14e4f1",
+    "title": "'GTA 6' players can't stop doomscrolling in the game: 'Art really does imitate life'",
+    "url": "https://www.businessinsider.com/gta-6-doomscrolling-snapmatic-gaming-2026-11",
+    "source": "Insider",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T02:23:00.000Z",
+    "summary": "\"GTA 6\" gamers keep opening up Snapmatic and getting stuck on their fake phones. \"Art really does imitate life,\" a gamer wrote.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "4608121cd0a8",
     "title": "Still Playing GTA VI on a Worn-Out Pad? Microsoft Just Made the Fix Very Cheap",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaE9kdGlOR1Vtb0h3RTZlZVFqeXJhRDlXbUo5cllWcmVaV2xoU2J6eXVaemVmWEVRcFpMT2MxX3Z3WTBsLXVXOWRIVUJRSW9kSHFqaGZuel9NdG9jdTduQ3ZtYTFEalRlZnN0amFhTHBxRVp3Zmlzczg4aDVZNjNMSnNrci1aaGlMRE5iM2pBRjFqNUJvZ0otLXpwODJ5eXB2SzFhdWJzRG96NkE?oc=5",
@@ -538,6 +1471,17 @@
     "firstSeen": "2026-11-22T06:38:20.272Z"
   },
   {
+    "id": "37c926ea9502",
+    "title": "GTA 6 has snitching teslas 😭",
+    "url": "https://www.tiktok.com/@luckychamuu/video/7710806431309581581",
+    "source": "@luckychamuu (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-22T01:47:04.000Z",
+    "videoId": "7710806431309581581",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "6be22c424375",
     "title": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDZEZkVLV1U3RUMyRmV0NDYyUzJiUm1YMllnMXVxcHVBd0djX1lWSXJIUFVJLTVMVUhFdmUzZDdQaDUyb1pjWXJPaDAyOE0tT292X3JHNlpYLTMydEdzQVFTTUVkRDJXR2c3WXRNcFc0M3JVSmM0bFp2cEtHRVlfbHlPX3BBR0h3ak9ySFhmdjZRTUM5d0x2S0lwZjBUcnY3MmU2NnVLMnN6N2xla1lSSGRPRy1RSEhJRHRKbw?oc=5",
@@ -553,8 +1497,8 @@
     "source": "AsiaOne",
     "kind": "news",
     "publishedAt": "2026-11-22T01:29:00.000Z",
-    "summary": "KUALA LUMPUR - Rockstar Games has confirmed that Blackpink's Jennie features on the official soundtrack album for Grand Theft Auto VI, following earlier reports that she had recorded a song titled…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "KUALA LUMPUR - Rockstar Games has confirmed that Blackpink's Jennie features on the official soundtrack album for Grand Theft Auto VI, following earlier reports that she had recorded a song titled…"
   },
   {
     "id": "0e5213e8018c",
@@ -563,8 +1507,8 @@
     "source": "Beebom",
     "kind": "news",
     "publishedAt": "2026-11-22T01:15:00.000Z",
-    "summary": "Here is a complete guide on how to complete GTA 6 Don Gone mission. Follow our guide and unlock two unique items that you may miss otherwise.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Here is a complete guide on how to complete GTA 6 Don Gone mission. Follow our guide and unlock two unique items that you may miss otherwise."
   },
   {
     "id": "986256e84879",
@@ -573,8 +1517,18 @@
     "source": "Beebom",
     "kind": "news",
     "publishedAt": "2026-11-22T01:11:00.000Z",
-    "summary": "Having trouble finding Donnie's lost cocaine stash underwater? Here is a complete GTA 6 Donnie’s Lost Drugs mission walkthrough guide.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Having trouble finding Donnie's lost cocaine stash underwater? Here is a complete GTA 6 Donnie’s Lost Drugs mission walkthrough guide."
+  },
+  {
+    "id": "c0f782b5abf4",
+    "title": "GTA 6: All Safe & Door Combination Codes",
+    "url": "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/",
+    "source": "Cultured Vultures",
+    "kind": "news",
+    "publishedAt": "2026-11-22T01:06:00.000Z",
+    "summary": "Sweating profusely during a bank job in Grand Theft Auto 6 and have dipped into the pause menu to try and figure out the safe combinations? Or have you just not managed to find the hints dotted around…",
+    "firstSeen": "2026-11-21T10:23:18.050Z"
   },
   {
     "id": "63d1cb5b2829",
@@ -595,8 +1549,8 @@
     "source": "NewsNation",
     "kind": "news",
     "publishedAt": "2026-11-22T01:00:00.000Z",
-    "summary": "Big Mike” Forbs, who portrays criminal underworld figure Boobie Ike in “Grand Theft Auto VI,” tells “ Prime” that the blockbuster video game is so successful because of the realism that…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Big Mike” Forbs, who portrays criminal underworld figure Boobie Ike in “Grand Theft Auto VI,” tells “ Prime” that the blockbuster video game is so successful because of the realism that…"
   },
   {
     "id": "933fa42226b4",
@@ -615,8 +1569,27 @@
     "source": "Fortress of Solitude",
     "kind": "news",
     "publishedAt": "2026-11-22T01:00:00.000Z",
-    "summary": "In Collateral (2004, 86% on Rotten Tomatoes ), Jamie Foxx plays cab driver Max Durocher, who picks up Tom Cruise’s Vincent. It’s no ordinary ride, though, as Vincent is an assassin who forces Max to…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "In Collateral (2004, 86% on Rotten Tomatoes ), Jamie Foxx plays cab driver Max Durocher, who picks up Tom Cruise’s Vincent. It’s no ordinary ride, though, as Vincent is an assassin who forces Max to…"
+  },
+  {
+    "id": "b214c56eaafa",
+    "title": "Grand Theft Auto 6 Has a Chance to Finally Rectify GTA 5’s Greatest Failure",
+    "url": "https://comicbook.com/gaming/feature/grand-theft-auto-6-has-a-chance-to-finally-rectify-gta-5s-greatest-failure/",
+    "source": "ComicBook.com",
+    "kind": "news",
+    "publishedAt": "2026-11-22T01:00:00.000Z",
+    "summary": "Over a decade ago, after completing GTA 5’s story, I was beyond excited to continue the single-player through DLC. In December 2013, Rockstar announced plans for substantial story additions in 2014…",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
+    "id": "20fd9a6310a0",
+    "title": "GTA 6 on Switch 2: Digital Foundry Says Unlikely",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1ZIWUNJRDhIdE01dXJnMEFJYzl4ZVl4RWNQYXpHV3BGRkRYbnJlLTFySHhMZFMwWkYtSjdEWW40ODZ4REJhaFFtVmVfV1lreWVEdjVrWE83R0tjMXZvQWk5TVE4MjRrc2ttcFlVdG0tUFR4blhOVWVacnJYUjlPRFk2Rm9yR3pZNThSdXJlbw?oc=5",
+    "source": "shattered.io",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T00:54:54.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
   },
   {
     "id": "d79db69aab0f",
@@ -625,8 +1598,8 @@
     "source": "The National on MSN",
     "kind": "news",
     "publishedAt": "2026-11-22T00:48:54.000Z",
-    "summary": "Hit video game 13 years in the making draws official warning…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Hit video game 13 years in the making draws official warning…"
   },
   {
     "id": "7b6d11405938",
@@ -644,8 +1617,17 @@
     "source": "Yahoo Finance",
     "kind": "news",
     "publishedAt": "2026-11-22T00:42:00.000Z",
-    "summary": "From a fictional burger to a shot-for-shot trailer remake, creators turned the launch of Grand Theft Auto VI into stories their audiences wanted to watch.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "From a fictional burger to a shot-for-shot trailer remake, creators turned the launch of Grand Theft Auto VI into stories their audiences wanted to watch."
+  },
+  {
+    "id": "cadf4f7bc1f7",
+    "title": "GTA 6 - How to Find the Fast and the Furious Car Easter Egg",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRUxrVGNuQkY1blJPWllCdHJoZ3dJcDJrRXloaEVkZ2pBQjF2RXlUa2c4eGU4NGxYR041OHdBbDFzX0ZHb2lFRU96ZDljVmVQZVA5Q3pFdVVtbHpWZzFjdGdsdmp3TTBmaVpNX3dqNXpOTTZ6SEE?oc=5",
+    "source": "Yahoo Tech",
+    "kind": "news",
+    "publishedAt": "2026-11-22T00:25:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
   },
   {
     "id": "e910ba424506",
@@ -666,8 +1648,20 @@
     "source": "TechStory",
     "kind": "rumor",
     "publishedAt": "2026-11-22T00:19:00.000Z",
-    "summary": "Grand Theft Auto VI could introduce a major shift in how players interact with law enforcement, with its reportedly smarter and more realistic police system already attracting attention from the…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Grand Theft Auto VI could introduce a major shift in how players interact with law enforcement, with its reportedly smarter and more realistic police system already attracting attention from the…"
+  },
+  {
+    "id": "e58619af5115",
+    "title": "Slow mo is crazy",
+    "url": "https://www.youtube.com/shorts/zOV_TI4oXAI",
+    "source": "Phrills",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-22T00:18:19.000Z",
+    "videoId": "zOV_TI4oXAI",
+    "thumbnail": "https://i.ytimg.com/vi/zOV_TI4oXAI/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "18d029d8d66a",
@@ -697,8 +1691,18 @@
     "source": "Yahoo",
     "kind": "news",
     "publishedAt": "2026-11-22T00:08:00.000Z",
-    "summary": "A Reddit post in r/managers about employees taking paid time off for Grand Theft Auto 6 sparked a workplace debate. At the time of publication, the discussion drew 587 upvotes and 242 comments as…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "A Reddit post in r/managers about employees taking paid time off for Grand Theft Auto 6 sparked a workplace debate. At the time of publication, the discussion drew 587 upvotes and 242 comments as…"
+  },
+  {
+    "id": "b2baf4e32013",
+    "title": "George Lam's Cantonese Hit Featured In GTA 6; Turns Out Quite A Few Hongkongers Worked On The Game",
+    "url": "https://www.8days.sg/entertainment/asian/george-lam-gta6-866196",
+    "source": "8days",
+    "kind": "rumor",
+    "publishedAt": "2026-11-22T00:08:00.000Z",
+    "summary": "Players were surprised to hear his 1987 classic playing on an in-game radio station, with netizens praising the unlikely pairing of Cantopop and gaming.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "2bae60e71027",
@@ -721,6 +1725,27 @@
     "publishedAt": "2026-11-22T00:00:00.000Z",
     "summary": "A comprehensive guide to GTA 6. Welcome to our GTA 6 guide, the latest game in Rockstar's long-running crime sandbox series. The goal of our guide is to help you get the most out of your time in Leonida, and achieve 100% completion with as few spoilers as…",
     "firstSeen": "2026-11-19T03:20:21.536Z"
+  },
+  {
+    "id": "5e4ea696de41",
+    "title": "Weekend profile: Strauss Zelnick, the ripped boss behind “GTA VI”",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzFRTFZYb0dmaW04dDZhR3RlaDdHMUVXalpOeEQ5NHZrUm9yR0dkZHFKck16TjAwaEhjOTluSTl0UUdROTF6TndNSW9PT0phem5FRG95Q2JuZERWTmpGcjljZG9XVHh0UXJsMXI4MWVjLUcwU1dKVFo3dEVXV3RmRFA5QWhmQnkzQUFPN3J4ZUEyU3V5NnRn?oc=5",
+    "source": "The Economist",
+    "kind": "news",
+    "publishedAt": "2026-11-22T00:00:00.000Z",
+    "firstSeen": "2026-11-22T15:15:29.432Z"
+  },
+  {
+    "id": "fd8bfaa3bbf4",
+    "title": "Are GTA6 Crash Physics Broken?",
+    "url": "https://www.youtube.com/shorts/gVZrlTwFUmQ",
+    "source": "Aaron Rheins",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-21T23:43:22.000Z",
+    "videoId": "gVZrlTwFUmQ",
+    "thumbnail": "https://i.ytimg.com/vi/gVZrlTwFUmQ/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "53d005d5d426",
@@ -805,8 +1830,8 @@
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T22:30:25.000Z",
-    "summary": "A quick guide on how to find the Buckingham Jubilee car in GTA 6.",
-    "firstSeen": "2026-11-21T23:08:45.788Z"
+    "firstSeen": "2026-11-21T23:08:45.788Z",
+    "summary": "A quick guide on how to find the Buckingham Jubilee car in GTA 6."
   },
   {
     "id": "d4cf23bc459c",
@@ -815,8 +1840,8 @@
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T22:26:08.000Z",
-    "summary": "A master guide on how to find every single car location in GTA 6 on Randy's wishlist.",
-    "firstSeen": "2026-11-21T23:08:45.788Z"
+    "firstSeen": "2026-11-21T23:08:45.788Z",
+    "summary": "A master guide on how to find every single car location in GTA 6 on Randy's wishlist."
   },
   {
     "id": "3ad4fd36d9c3",
@@ -872,32 +1897,14 @@
     "firstSeen": "2026-11-21T23:19:24.343Z"
   },
   {
-    "id": "02af179c37bf",
-    "title": "🇺🇸 GTA 6 is finally out and this guy is playing it on toast. Rockstar built the most hyped game ever and he chose a slice of bread over a TV. The graphics are crispy in more ways than one. Writer: Daniyal",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zTGtHN0xSSDM5Z3A0UTJrdW9lcFhGYjdmWkNoUzBMdTJ6Ni0wOTh5NlA0SFM1eTRjUk5nZ2R2aDVHUzFTOF9xZFhiV1dyNDRXS2NmRFN5WjA0TC1EeUdOc0ZvVkpINnpUYVZvWA?oc=5",
-    "source": "X",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:15:00.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
     "id": "0519dcb7595e",
     "title": "Where to Find The Pfister Growler in GTA 6—Randy’s Wishlist Car Locations",
     "url": "https://insider-gaming.com/where-to-find-the-pfister-growler-in-gta-6/",
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T22:14:45.000Z",
-    "summary": "A quick guide on how to find the Pegassi Toros supercar in GTA 6.",
-    "firstSeen": "2026-11-21T22:19:21.431Z"
-  },
-  {
-    "id": "a8b12d8eef46",
-    "title": "Every Pop-Culture Easter Egg We’ve Found in GTA VI (So Far)",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHVZSXRncXFvTzZERkdqUDlNcjh0SGZaQ1g1NG5IXzAyVGVVZ25RM1hSdUdJaDFxWXJPdVBEX1Z3MFJmQnA3YTh0UFNXTFd6dFVaYlN0a2xtOE9hNEkxTmFZN1NMQTYtRE91WVZWSjAzd0d2WVFKRDFKZ2tZTHhTYVd2MzRDdFlQZHZlQS15eVQ0V1owdC1iT2ZpZ2M?oc=5",
-    "source": "Vulture",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:14:00.000Z",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-21T22:19:21.431Z",
+    "summary": "A quick guide on how to find the Pegassi Toros supercar in GTA 6."
   },
   {
     "id": "842a290dec6d",
@@ -906,8 +1913,8 @@
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T22:10:14.000Z",
-    "summary": "If you're hunting for the password to access the laptop in GTA 6, you'll want to use this guide. Find the 'Muffins' puzzle solution here.",
-    "firstSeen": "2026-11-21T22:19:21.431Z"
+    "firstSeen": "2026-11-21T22:19:21.431Z",
+    "summary": "If you're hunting for the password to access the laptop in GTA 6, you'll want to use this guide. Find the 'Muffins' puzzle solution here."
   },
   {
     "id": "f2c7af184fec",
@@ -918,33 +1925,6 @@
     "publishedAt": "2026-11-21T22:10:00.000Z",
     "firstSeen": "2026-11-22T06:38:20.272Z",
     "summary": "Developer Rockstar Games and parent company Take-Two Interactive announced that Grand Theft Auto VI generated $3.79 billion (around ₹31,900 crore) in worldwide retail sales on its first day, including…"
-  },
-  {
-    "id": "f40516b203cf",
-    "title": "GTA VI: Surprisingly Odd Reactions to the Relationship with Lucia",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSS2lacDlEU0tGdnVhUkd3SVFIWjlVTGxYNEgyMzJPZkh5aTdhX1lvZ012Q2UtUWFPVEQxdkdMYy1XQ0JMSFVvQVl4QzRkQlNleGxTbnNXMlYwYzBIMzFTWTJRa3A0YlZlT0E?oc=5",
-    "source": "Stanisland Magazine",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:08:18.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
-    "id": "ca663768ad79",
-    "title": "GTA 6 - How to Find the Dexter Easter Egg (Apartment, Boat, and Kill Room) | IGN",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibnYzY29XdjB5cDBIbVZiSE9fTktIbmZfOFF0Zk5LRmNXc3lsZ1NobktTWnpqaWh2cFZITnNhOWxNS1FDaWpqcG1ickFKRnhqaXFUNVR4dDhqaWlveWZRbWxWZ0RLWWJJVkVScUxxMldGelVzUXlGQWszM0JDYXM?oc=5",
-    "source": "NickALive!",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:05:00.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
-    "id": "91992a2a4f4b",
-    "title": "Grand Theft Auto VI rakes in nearly $4 billion",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXdQRWt1bm95UE9NeWNTaGxsWFhuZ2JMdzBlOEY2NjhDdkNSUGlYLTBXYXNTS2xmS2RaRndQTmxsVVJvOW9YUEJCSTgtZXR2MndJLUJLWmhpM3N6V0F4eHI2Uy1OMUlXVjZVS0t1eFFhS1MyMGQwQlNscjQ4VkpWdXdHTEtpcWUza2RxZ2hBbTIwLTNDa2FpdGRxRmh4aHhPT190OXV1OFNOWmhQeTJVVTM0NDVTRzVjWkdyeHZtQlExdGhVNllGaEhleUI0MURFVjRTTjF3?oc=5",
-    "source": "WHAS11",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:05:00.000Z",
-    "firstSeen": "2026-11-21T23:08:45.788Z"
   },
   {
     "id": "9814c72d212b",
@@ -977,15 +1957,6 @@
     "summary": "The crime action game *GTA (Grand Theft Auto) 6*, developed by U.S.-based Rockstar Games, has rewritten entertainment industry history beyond gaming. Take-Two Interactive, the parent company of…"
   },
   {
-    "id": "99fd86ad4158",
-    "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′ s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcy1lTU9BdWVrWkM2ZTNKMWxJWnIyZ1Q1SXV2SWRtMUhwT09lRmZBeW1VeVkzbENYWUlVdzBGTmZuVFdiUWhGOTFady1nSEVnVlpEMm5Tak9qMFhtVUVULWcxSFFKc3NSaXhJbndGZjJLYldFX2ZYSW9TeTJabTA2emRaeTFJc2pSVUw5TjJkcTNhMlpxU18xR3k2ZHB2V3F6eWRhYmR5S1o3cUh5eU10OUNKcm90UU9aZlB0UU5ReUtwNk5VYkxDOEh3M1o3Rkk1Tl94ejM2SQ?oc=5",
-    "source": "Kotaku",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:00:32.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
     "id": "e50f71f83ebd",
     "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
     "url": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
@@ -996,41 +1967,14 @@
     "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks."
   },
   {
-    "id": "3e8dbc9c1d70",
-    "title": "GTA 6 gets its first 'Mount Chilliad'-esque mystery and I'm already losing sleep over it",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkx1cW9RMzg0ZGYtWGZCRzZtc2dVaGxSaVJoakdEcnJ1QVkxU2NHczdXUmQxNlAzcmZJMlNOdUc3OXdGbjI5MnJ4azhlVGhhTnlZb291X3U1SDRHYjFoS29YVk1Ib01LbnNaTlYtbkJzXzZFWE8wQ0hwMnpHU3FidHNlQmh0c2IwbW5j?oc=5",
-    "source": "GAMINGbible",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:00:02.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
     "id": "7e5657593efd",
     "title": "Not enough moola for GTA 6? Here are 5 top games that also hit the open-world crime spree spot",
     "url": "https://sundaytribune.co.za/technology/2026-11-22-not-enough-moola-for-gta-6-here-are-5-top-games-that-also-hit-the-open-world-crime-spree-spot/",
     "source": "Sunday Tribune",
     "kind": "news",
     "publishedAt": "2026-11-21T22:00:00.000Z",
-    "summary": "If the steep price tag of Grand Theft Auto 6 is too much, IOL Tech Editor Michael Sherman explores five acclaimed action-adventure and open-world alternatives like Red Dead Redemption 2 and Alan Wake…",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
-  },
-  {
-    "id": "2053b55269c5",
-    "title": "Even The PS5 Pro Can't Push GTA 6 To 60 FPS, But Is That Really A Problem?",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejJlVzlveGg2U0pLUkVVV3RNYS1VaElmV1I2dmJQTng4Xy0yZ3F1QlRBelEzbjhNNDNScmRtajE5UDdOY3pvd3pEbnVhTmpNdjB0Q2ZkelVMR0k3d2pBV2I3MmpKUndtQzlrdUdIcmUwSFh3OUNpZDN3V2ZSS20zcDNpQXRjM0FyTVlKZ2FaRDk2N0R0VDhrQjJ4cmd4ZEFRdjlwTkVSX0d6U3dxOVNB?oc=5",
-    "source": "MMORPG.com",
-    "kind": "news",
-    "publishedAt": "2026-11-21T22:00:00.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
-    "id": "55d7bbbe6f38",
-    "title": "GTA 6 Review Score Discrepancy Has Fans Debating Its Metacritic",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDkwbGFjME9JMnRsalctNTRLQVhFRTRmR195ZEhvZldDRnZXUjdwdExkOGVhY2MtSmJrSFBHYnVJUVp4Z2xqZTFzeWhPUm5wS0Y4QTdqd040ZXNfdktZekxvamgtVjE4OXhra1JUTUx6VUhtUWdNSERscXN5MEl4RA?oc=5",
-    "source": "ScreenRant",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:58:28.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "If the steep price tag of Grand Theft Auto 6 is too much, IOL Tech Editor Michael Sherman explores five acclaimed action-adventure and open-world alternatives like Red Dead Redemption 2 and Alan Wake…"
   },
   {
     "id": "00e8df065828",
@@ -1055,24 +1999,6 @@
     "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon."
   },
   {
-    "id": "2431e2b49679",
-    "title": "Giant crab safe code and Crabshack VF5 SMG location in GTA 6",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaW91NG10ckszU2U1Qk9LeGtlOHVHMnBDN1JFU2RrNFU5UnhLYnZDY1lDc3ZYbHlGODZMWnUxX0RKOVZMclV2NFN2OXBxRXZkRU5qVVo0Y0RmSjhqTF9pSUtCU25xMFhYeVdLUDZzU2l0bVFLakVOWkp4N0xCWUVZcGlVcHpHSkZGVXJqeFBhMFpvdWZtYkFTMHhfZ0IxV2MxenJoeXp3?oc=5",
-    "source": "Polygon.com",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:48:35.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
-    "id": "cb630830e1d2",
-    "title": "5 PS5 settings tweaks every GTA 6 player needs to make",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT20zd2c3dmg3blFRM0t2SjczMzBQR1I1WWppcEpkWTBhU1h2YnBUQkxfYkJBREp3NzlRYjFMbUNYbjB0LWZmQk9aSTloZkV4NjBiWGVSVDViN2ZnS2o0X0NsZHRpMU5DN2Z6X0MxRlRWZ25na283b3ZXazFuQVI5Ri1YQ2ZGUQ?oc=5",
-    "source": "MakeUseOf",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:45:16.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
     "id": "5c1a22d20dd5",
     "title": "GTA 6 Skips 60 FPS on Consoles, Prioritizing Visual Quality Instead",
     "url": "https://www.analyticsinsight.net/news/gta-6-skips-60-fps-on-consoles-prioritizing-visual-quality-instead",
@@ -1081,24 +2007,6 @@
     "publishedAt": "2026-11-21T21:45:00.000Z",
     "firstSeen": "2026-11-22T06:38:20.272Z",
     "summary": "GTA 6 players have found a strange way to bypass the game’s 30 FPS limit on Xbox Series X. Since the game's release, players have been searching for a way to in…"
-  },
-  {
-    "id": "2dc1f9dbbae6",
-    "title": "GTA 6 Has a Hidden Event Where You’re Kidnapped and Thrown Into a Real-Life Hunger Games",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrSzU0QjZKTXhQckg2NURrTl9TQVEwN2JEeVN2clgxek1KUVcxYzJYWE8tRERPdVU5ZWFoMFFSUV9jd05qOGNMc2hGb3hPdVlSSzQ2VXA2bW9ZY3hmdjlPdw?oc=5",
-    "source": "GameByte",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:42:42.000Z",
-    "firstSeen": "2026-11-21T22:19:21.432Z"
-  },
-  {
-    "id": "83b5011f3ad9",
-    "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JxVGVCeWNZRFJTQmNOX25LUDFMT0t4SzNmZjN0aHByMzRpOHdBTDhnUVRsUWNOVE1xRWpxWHNCUldrMDA4S0hJa2h6U0E5Z3JkYlNaeGllY3ZvUjJzZF94VU9jVXBIX3BaUEFmWGd6ZWFZY3ctSTRzNktuRlVCT0p3dlc2bVlnYXo3VV9vLXUydU8xZnpUMnJSNTNybHNhbkFRZWZSWWVsV0lmYmNVRnRjYTZaSXBTdmtYWXRMYjU?oc=5",
-    "source": "PC Gamer",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:42:29.000Z",
-    "firstSeen": "2026-11-21T23:08:45.788Z"
   },
   {
     "id": "9a8937a8d49b",
@@ -1113,24 +2021,6 @@
     "firstSeen": "2026-11-21T23:08:45.845Z"
   },
   {
-    "id": "6e38975b4581",
-    "title": "How Janelle James got her own radio show in 'GTA 6'",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSlNiSTBqUEVFUGFXWVRtYXNFWnZYeXB3VTFmOWhqaWh1bzhZU3VXTEZOR2ZQSzloa2oweUE2bHNFdjd2eG9SNnE5a1lLQnZjdnBabzEwZ2gwbTBwUE1Ob0ZRcm41ZGs?oc=5",
-    "source": "Mashable",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:39:11.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "ae91ac6a8f43",
-    "title": "GTA 6 Officially Confirms Satoru Gojo Actor in the Game After Wild Reveal",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OZ0FuelhNUnlKV0lKamktM1JrUHZqUHFnYURLMXA4S25BdkI5Mm1rcmhzOENMZmI0Nm1GaGdtQXlJSG1WQWVseDhRT0ZEXzhTcUh6dGxtOGFtV0tqdjF3OVpR?oc=5",
-    "source": "IMDb",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:37:20.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "b0c589eeaa87",
     "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
     "url": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
@@ -1141,49 +2031,16 @@
     "firstSeen": "2026-11-21T22:19:21.431Z"
   },
   {
-    "id": "cb8287ed4c52",
-    "title": "Chess Fans Have Spotted a Glaring Mistake in GTA 6, and It’s Been Hiding in Plain Sight",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85ZkdrWDR0MWxRRE1fb0hJbjVUb2NXdXhoUnJkZVlScExHQWQ0N3RvVnNnWk1tZkZicEtfTGlOS3ZZNVRzLXFDWTVqeHU4MTJBSGhHRU1n?oc=5",
-    "source": "GameByte",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:35:31.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "15723408b9ae",
-    "title": "Avengers: Endgame Officially Reclaims #1 Global Streaming Spot After GTA 6 Massacre",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UZWxCU3JjZHFXOWdVQVRidWFwX3hIWVBMaHBGUkhjb0NkanhqT2Y3ZEhIV0gzLWxfcnZzV2lpd3EwdHhXUS0yWDNkUjJLcW1FOEo1ZUpsamtNV1F2NDlveEdpT3Vsdw?oc=5",
-    "source": "IMDb",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:21:23.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "ca4650351200",
-    "title": "GTA 6 PC Release Date: Everything Rockstar Has Confirmed So Far",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pcjN2a2Ryc0VXUk81SHM1VFpvaXg5WjlIdzNuVGFUcjlCT285U1Z4VS1YUE1EQnBCUGw4cVZTR3RTam4yLTFmMGJ5MGNxN0hNcS1qQjF5MW9iTWtuNmNF?oc=5",
-    "source": "MMO Culture",
-    "kind": "rumor",
-    "publishedAt": "2026-11-21T21:17:24.000Z",
-    "firstSeen": "2026-11-21T12:19:15.104Z"
-  },
-  {
-    "id": "49e7ed8971cf",
-    "title": "GTA VI Lets You Steal a Car. Try Lending the Game to a Friend.",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHZxV1ppMWNXeGx3SHhiZ3VkLV9hNFdYd0s1dlQtaWE0U29uZzlhY3VPaU1Ta3FrbG42Q0x0eDBFenJzTG9ORERwbHRMb1ctUkJwZ1JXZzRTMlRqS0xnOEVkcHdxWV9UR3JCT2FCaUJxc2tudFZIS3FoOU9uemRlWDhvcEdROURiYllxWV84YTZaUGpZY3l3UkFn?oc=5",
-    "source": "Brave New Coin",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:14:04.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "ac4e2a6ff780",
-    "title": "Zelda: Ocarina of Time Metacritic user rating sinks in response to GTA 6 review bombing",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2x1REJ2YzJJYUhvWk1rakNQZXowQjMtY185cGRCZWV4TW44aC1oNjVPSEo4Rmc3ZmpTTENEZFFSbEkzeF9ENEVsUHJUckF1bFdMT1VLRDQ4WElxREtQMkVKVkUyUUJpMFZSRUY2RGRJMDFSRFNJYUFEbzJFWkpYelV3ZmtDaWRvRFNqb3hMNEJZSk9laWg2RkU3QS1VZFNIZWJmSGFERlBOMWpkbzNCXzdNVWRKN2VwTlhSSzZVajJNYUtYeEcyTXJmNA?oc=5",
-    "source": "Notebookcheck",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:11:00.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
+    "id": "3cf2d941082f",
+    "title": "GTA 6 Trailer 1 vs.Launch Trailer - CharacterComparisons...",
+    "url": "https://www.youtube.com/shorts/aR5-Qw3gJ2w",
+    "source": "okay",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-21T21:30:00.000Z",
+    "videoId": "aR5-Qw3gJ2w",
+    "thumbnail": "https://i.ytimg.com/vi/aR5-Qw3gJ2w/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "f6c2902a348b",
@@ -1210,23 +2067,14 @@
     "firstSeen": "2026-11-21T23:19:24.343Z"
   },
   {
-    "id": "e4ffb2930996",
-    "title": "GTA 6 launch costs the US around a billion dollars in productivity",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnljdzBFV1ktbGU0NFJwY3E5T0dOU3JTaFdrRzhBSUtTaTFPclN6WFNLM204VUtXdEx1cS1oQlQta1dNRlBSOHhuNTRSM19PMklSNElUY05EWDIxTE9GamNva2lGNzc0M216Q3doYm44WkNGbVdtV1hCX0ZRQ2UwMFV3YUc0SFlNNGZDNHpTT0ZWT0VONU9USnZwWkR0ZHBESklVZjZ1YTVwQ3A3NTFnRTdvMklpSlU2b3BxMTZR?oc=5",
-    "source": "WHIO TV",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:03:56.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "d7508fc8d97d",
     "title": "Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More",
     "url": "https://insider-gaming.com/best-secret-loot-location-early-game-gta-6/",
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T21:02:21.000Z",
-    "summary": "There's a secret spot in GTA 6 that you can access early to get insane weapons, armor, and valuable items.",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
+    "firstSeen": "2026-11-21T21:42:35.050Z",
+    "summary": "There's a secret spot in GTA 6 that you can access early to get insane weapons, armor, and valuable items."
   },
   {
     "id": "fe517e5430fd",
@@ -1251,33 +2099,6 @@
     "firstSeen": "2026-11-22T06:38:20.327Z"
   },
   {
-    "id": "b603482fa50d",
-    "title": "10 Things I Wish I Knew Before Starting 'Grand Theft Auto 6' (#2 Is the Best Secret to Find Early)",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsSGJRSGZJUTN2enR5UVFKa0F4aDk4NXo4eXNUeUZxSzNBelNqUlQ4X1VrTVVNbVNHT3kwUVFXczV4cThIWk9LeXo0WFV2czA5QXc?oc=5",
-    "source": "MovieWeb",
-    "kind": "news",
-    "publishedAt": "2026-11-21T21:00:16.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "fa90127ba2c0",
-    "title": "How to Switch Characters in GTA 6 – When Jason and Lucia Switching Unlocks",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbFFTQ3M0Z0FUQTI5RjBlSTdMQ1hfRWFaenBaTFpGX2JETE5LLWZQY0t2UEFmZlRmY1F1dlJsX2xjY3Qwejhuc2FjOUo3Nl9aUlRpUUFsZHJ4dkEydTk1amRSZUJWZ1RPak9TeXpGTm43dEpQ?oc=5",
-    "source": "VICE",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:58:46.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "da4b1dd5e67b",
-    "title": "Take-Two Stock Under Renewed Pressure as Investors Sell the News on GTA VI Success",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3l6ZG5YTjZZaWJ1cHFoQld2TWtpc0liNEtFLTdERFdGZGJLSzVzd2FDU3RXYWhCUDEzdzdOcldVa24tZVVTZkZJU1NuVEJsVUU0REM4Q1NDa1VlRDRKak0xeWtURVZoUllZN05pOHNMRmd5a1BBd19FR25CNkZPb0REZTMwa3dCUFNwNlRGXzV6X2t3aXU1N3lyUnNCaFBDaENKaF84YXZUMEVwYTU3TGVGXzI0YjNubm05VkZJckYtUU9UcDJfcTI0azV4MURkNm9oQURn?oc=5",
-    "source": "Benzinga",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:55:10.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "da3be7784b67",
     "title": "Gta6 whatdatmean",
     "url": "https://www.youtube.com/shorts/NN3hlwcSPPE",
@@ -1300,69 +2121,6 @@
     "summary": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is."
   },
   {
-    "id": "2b7fda839b25",
-    "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcS1yc0ozcW9YVjBHWVN1Rk5QSFZXbUp3RGpoS19GVEV6d0ZPdFM4RENvc011U1B1Y2Q3OTVuSFFVdjMyWWd4NFdtYXQ0VlhFNEFGYVNBVzAxVGhMVllXWGo5X2thQ3p5N25OUkhGS1BqclFDWnJlbXVGdkhiTzJtZHl4c2Q0aTR6N3RVakFpelZDdUdGMGtEY2VaQ1NSbEhaZHhyRnN4cXRnc0cyZ0FiatIBtgFBVV95cUxNRURSWUEwZU1ob2hERVVSUmpNQjd4ZlM4S1RPZzk4MXNSTTJOT3FUVWtsd1NEUUdjcnV6dXJmMTBfOXVDR18zVTAxTUROdS0zaEJ2bm9VM2N2cTVjczhRU2d6bHhOWUxuZVlnTnR3MURXLVhsd2ZGTlE3RG05ejQ0dDVFUXVubWgtUmg4M1ozMERaYXFvYURWODFsOF9kamVXVVFEVldBbjZiYUk2YzhIaVBCMk5MUQ?oc=5",
-    "source": "Fox News",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:53:49.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "f7bdec8f6b59",
-    "title": "La locura por «Grand Theft Auto VI» podría poner en peligro los matrimonios, según revela un asesor de relaciones",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2VNREhLM3RubE9SMEFwdURTMHlRTGJXSk1YeExBaTgwQ3NKMm10ZFlUU2RJOGNFTXNtMmxSWHJEZjFpczBQYjhSTHc4UXJQWmJRRl9zMFNCX2Q1UE9Tc2RzcmI2SXliUUJrN3RpMENVMkNicFN2UERIeG9INnF5dkRQcmwwSkhSTk1DWE10MEVHVUNZTUZOMEZGbEFCbWhRa0U0eXVvQUQ5VmRld3gyLWVPdUd3cUpQOFZr?oc=5",
-    "source": "Fox News",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:53:49.000Z",
-    "firstSeen": "2026-11-21T23:19:24.216Z"
-  },
-  {
-    "id": "dddbc7ad6b52",
-    "title": "All locker and safe codes in GTA 6",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2hlYkR6R3h0RzBJWmVEY3VfMVRzRWpPZWR4MGxSMmgzSWpZUUctYWtydUEwUW5LbzBERUZoelhOYTVKQ01KNGF0LXRFcWZPa3lRX2dSUVVXOExIbXlLcjRxQTZQU2RwMTRYQzJIT1RycE1vdXptQXNhVFB6bnByaU0xNA?oc=5",
-    "source": "Yahoo Tech",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:52:50.000Z",
-    "firstSeen": "2026-11-21T23:08:45.788Z"
-  },
-  {
-    "id": "172ec37cfce7",
-    "title": "Music Review: ‘Grand Theft Auto VI: The Album’ is overstuffed and chaotic. But there are also gems",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkxoX0Y1eUt2REI0YjFKZERkYUVJTGtmc0ZOY1phTHpnMjVJaVVFVHo5djhocE8xbmRjb0o5d2cta2QwVS1kV1dvcmV0WVNCN0ItdnRBbXhVdzBTTEVEeUZQT1hiYVFjc1RiZWhWMUJrR0pyRGFBTlFHenhwYXZOazd4MTRuQnd1V3JSLXJkeFZONEVPeEkyYS16amNtZDJoaWRVR1NQS3BXdXgtLUxNY3VmRnVxOWZmZ2J5YS1zWnlrT1FGWUl4blFtMlBaaWc0cHVZ?oc=5",
-    "source": "The Seattle Times",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:42:33.000Z",
-    "firstSeen": "2026-11-22T06:38:20.272Z"
-  },
-  {
-    "id": "135feea1f1b0",
-    "title": "GTA 6 Avery Pawn Shop Safe Code: How to Find and Open the Safe",
-    "url": "https://www.videogameschronicle.com/guide/gta-6-avery-pawn-shop-safe-code-how-to-find-and-open-the-safe/",
-    "source": "VGC",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:41:28.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "7bbe306eead9",
-    "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXJ6THdvNkhBZEtlWnBLdlBlekhlejE1OWFnVmw5WXp0SGtxT0pJVGRkZGdVZTdBeG5KTEdpbG9Mcnd5amJwbXNUdldDMlNPZ3ZaSUpjZFN4NXcxcEJxWGRobXlLa3plUlp0XzJob01iSEY0VTV6VlZWM2xoclREQjVvaFpMYmxZcHVVd0xYbWN6b2NUZzcwRm9kbUNQU0dsbS1tZmJ5c2Z3TGc4?oc=5",
-    "source": "PC Gamer",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:32:43.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "1a8f9804453c",
-    "title": "GTA 6 Fans Are Loving New Rockstar Games Freebies",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSmhRWXppTnd1TS15TFZYUUVOd1MwWTRmWVJ6ZzVUM1liNEROa0gwRms5eE9WdTFzdG1YdVBfMGs4RmRyWmtkcF9SMWUwZ2hBVjAyRE5JZkFSbFdVbVJPbmxzNzhrcWVXX1hIMXh3?oc=5",
-    "source": "ScreenRant",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:31:18.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "5ec1bb9312fb",
     "title": "The mobility scooter is indestructible",
     "url": "https://www.youtube.com/shorts/127m9_3qvIE",
@@ -1375,24 +2133,6 @@
     "firstSeen": "2026-11-21T23:19:24.343Z"
   },
   {
-    "id": "e58764ef88c1",
-    "title": "‘GTA 6’: Where You Know Brian Heder Actor Stephen Root From",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQm43UzYxYURubVd0MXVBOUMxb0ZSVDh4aE9jcVl5TDNZMUhid3FYS2tqenVPX2dWa3ZZRFhTV3VxZl9OemhCZlVyR2pXa2lmc1ZnTXJqcmlQdVJiREZVNXhqR1h1bTliRzE1ZTNkRC0xWUh1SlNaa0UyRUF6UG92RDJjUmp0em5hNVJtdzg4VkZ0VVE?oc=5",
-    "source": "Men's Journal",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:29:31.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "b9d7134c4349",
-    "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
-    "source": "Mashable",
-    "kind": "rumor",
-    "publishedAt": "2026-11-21T20:20:47.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "5abb86294483",
     "title": "GTA 6 PC Release Date: When Will Grand Theft Auto VI Come to PC?",
     "url": "https://www.covers.com/entertainment/gta-6-pc-release-date",
@@ -1401,24 +2141,6 @@
     "publishedAt": "2026-11-21T20:16:00.000Z",
     "summary": "Grand Theft Auto VI still has no PC release date, but the latest odds point to GTA 6 coming to PC in 2027. We break down the latest news, Rockstar's launch history, and what Kalshi markets expect.",
     "firstSeen": "2026-11-20T11:35:11.948Z"
-  },
-  {
-    "id": "dcb5e098df1f",
-    "title": "GTA 6 Vicki Voice Actor: Where You Know Taryn Manning From",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBweHlFcXRyTk9JZ0NKZXRFblJtZjZaRmtHYjJ3Q2M3QkQtbjRzZGdzc0Uyc2RqenNBMUsxWW1Zd2xLMFRJSnBKSjIzNUVZNHFtbDFvVUNZME80aW1EeEZycVo5WTNHOWNrMVQwc1lLZjdKcUdiY0F0XzRLWGl1RjQ?oc=5",
-    "source": "ScreenRant",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:15:22.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "a3761ed515c6",
-    "title": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?",
-    "url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
-    "source": "VGC",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:10:07.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
   },
   {
     "id": "833507693181",
@@ -1443,15 +2165,6 @@
     "firstSeen": "2026-11-21T21:42:35.050Z"
   },
   {
-    "id": "b1c070e7e325",
-    "title": "Klay Thompson plays GTA 6 in surprising way",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQklJWGphaUx0MkM5enptVzZYUWVsci0tUzhYX2otZ1ozc0FDVjZ2dXlNVlRITW5oMUFxUmxpZ0Rsd0QxZzJ0RkhGaXVTZWh4LXhrY251dUdRUEE2bnIwOHRURnVwWTkyLXpMODZWRkRzMlNUX3puRGIxbWhSMjFrZnBwQ01RYUE0bHE2ZjRyUXpFUQ?oc=5",
-    "source": "Lyndy's Sports Annuals",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:04:00.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "9d2617b18252",
     "title": "The Funniest GTA 6 Clip I’ve Seen So Far 😂 PS5 PRO",
     "url": "https://www.youtube.com/shorts/HzrjVVV-060",
@@ -1462,15 +2175,6 @@
     "videoId": "HzrjVVV-060",
     "thumbnail": "https://i.ytimg.com/vi/HzrjVVV-060/hqdefault.jpg",
     "firstSeen": "2026-11-22T09:52:05.177Z"
-  },
-  {
-    "id": "2898ce538190",
-    "title": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly",
-    "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
-    "source": "VGC",
-    "kind": "news",
-    "publishedAt": "2026-11-21T20:00:53.000Z",
-    "firstSeen": "2026-11-18T13:54:26.382Z"
   },
   {
     "id": "dcd6123ce2c0",
@@ -1485,15 +2189,6 @@
     "firstSeen": "2026-11-21T21:42:35.189Z"
   },
   {
-    "id": "799835aa154d",
-    "title": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5",
-    "source": "USA Today",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:59:00.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "88f41a664c13",
     "title": "GTA 6 Cops Have NO Chill 😳🚔",
     "url": "https://www.youtube.com/shorts/IVipxfZItJg",
@@ -1504,33 +2199,6 @@
     "videoId": "IVipxfZItJg",
     "thumbnail": "https://i.ytimg.com/vi/IVipxfZItJg/hqdefault.jpg",
     "firstSeen": "2026-11-21T23:19:24.343Z"
-  },
-  {
-    "id": "37f8bcb2e846",
-    "title": "School Offers Students $92 Reward to Keep Them From Skipping for GTA 6",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamE2YXBrUG56N2pBT3hQcEd1VG9MbVhpdkZnb3pXblp1ZkZmby0ydnBrUU83SEQ4SFNDcDgtbUZVVGQ4SXQtTGJ6X2g2M3QxV3hiOERYckNnUjlpZXhBYWNJdVN3RUtlRm1QeTktdHhfVDdYM2VjVHlldWdZZVQzc2VCSXZvcXRCQmM4enlVbmQtamJzMTNiTmloZ1VMQm96Z3B2cg?oc=5",
-    "source": "Parade Magazine",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:46:45.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "16b98a9f2101",
-    "title": "Greene: Parents concerned about kids playing Grand Theft Auto VI feel like the bad guy",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2stNk5RbzFCbDk0eXVoUlptcUl2a21lVnRYMm1aaDdCbGdVc1h5RnBaMUQtMjhCTVhINEwzN2Z6YWttYVQyMURlcmNFYUJ0bm5fcEhEaXdZREQzUTVaZWZKRm9kNDVWUk95bW8xVHFJcW5wWkZWa2NtaEZtM3B6VXdUSzd1WXIxcWdGcmM4ZTFhTlhqOWdRZlhPXzE5SEdtRTBmb0F0VjhwWnFVbFZaaDZKdW9MQQ?oc=5",
-    "source": "New York Daily News",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:39:10.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "742af68dffd7",
-    "title": "GTA 6 Prologue explained: Lucia’s son Tommy and how the mission ends",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFJmNXREOU9HcVRMLU83N3ZXRWQ5VFg1R1hyT0k4RDlJc2t1b0RXMlB6Q3FabFRpV3JNOGg4Zmxlc2Rva2x6bzI1Z1kyUjhSaHk2ZUQyUjlaQVFjdHNFXzlzb3B1dU1Xb2g1YjhTLVJJV3NURUZwN0s2X2V4OFBYdGpSQTZaRGtmemF1bW5aZw?oc=5",
-    "source": "eGamers.io",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:31:38.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
   },
   {
     "id": "a25050a03a87",
@@ -1569,31 +2237,15 @@
     "firstSeen": "2026-11-22T06:38:20.327Z"
   },
   {
-    "id": "5b4caee9fac6",
-    "title": "Lindsey Buckingham & Michael McDonald Unite for Surprise ‘GTA 6’ Cameo",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlIYUdBZmV6c1FzcHVELXFuVEN1bzluMExkX2RVZzN3WnlDUnpBNGFYVDZ1MkNWWE9CTmgybHpXekxfbHJzVENmSzNZd0RpU3V4MXlfX1RGUF9yQTdaTUhicVJRRzlZQTZKaVg0RkN0NzFjbDBZaEVaNlRTWWE1LVhKNElKY0ZxcWQ3cWJ6YU5pazEzRDFlRnhSSndGV2xz?oc=5",
-    "source": "Men's Journal",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:19:21.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "7d7bda3838f6",
-    "title": "A Guide to The Best Way To Play GTA 6, According To Rockstar",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlZzb3VwX0pvQjdDci1raXFGaURhUmlQaWJPZ0FEb1FOTDF4YzBaeFZPTk5LUGhJbTFVVTZCNFVKaDVmSDBSQld5b2ZDdkM0WVJSbXlKaEhpTGM3WWxjQklwbWdSOUZHWGtfSTUwaFpVOXNwNmZucVo0VXpsYnRzTWZhZ0xqcEdJUGJOVnVBVm5BUTJrZUctbzZpTlZOc1MzY25Jc0pwZVh0MzdNUDN0dG90WjJKSWFvTzdMQV9TQWdhRTA?oc=5",
-    "source": "Kotaku",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:15:01.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
-    "id": "e0ea27a25b03",
-    "title": "GTA 6 has taught me one very important survival lesson: If something looks electrified, KEEP YOUR DAMN HANDS OFF IT. Writer: Oliver",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkWHl2QnZON0QwRTFGVVB4S04tRExGRjVvdm0yNFR1bEluM09VTUZSRE52N3A0cGJBbWhNX0RKSEJpUGgwajh3TUZEc29jNTNOQktQQ3lodWR1ZkJSQXNydVhMaWhfTm1fNUlCRQ?oc=5",
-    "source": "X",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:11:58.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
+    "id": "fe93a9617adb",
+    "title": "Grand(pa) Theft Auto 🤝",
+    "url": "https://www.tiktok.com/@trevorwallace/video/7710704928980798751",
+    "source": "@trevorwallace (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-21T19:13:11.000Z",
+    "videoId": "7710704928980798751",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "173b779f61fa",
@@ -1602,8 +2254,8 @@
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T19:11:34.000Z",
-    "summary": "A quick guide on how to find the Pegassi Toros supercar in GTA 6.",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
+    "firstSeen": "2026-11-21T19:20:00.699Z",
+    "summary": "A quick guide on how to find the Pegassi Toros supercar in GTA 6."
   },
   {
     "id": "ec0d68d66ba7",
@@ -1612,17 +2264,8 @@
     "source": "Insider Gaming",
     "kind": "news",
     "publishedAt": "2026-11-21T19:10:58.000Z",
-    "summary": "The motel isn't exactly the nicest accommodation in GTA 6. When can you leave the motel and move in somewhere a little better? Find out here.",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
-    "id": "7186066ca402",
-    "title": "Take-Two Says Grand Theft Auto VI Hits $3.79 Billion in First-Day Retail Sales: how 19 outlets framed it",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRWphaHhMVHlUTXJZb0lORV9sWVpHTU80MEhGSVRkQ2QwQmZJMS1wb3FnNW0xRGNkeDJWdnBBVWNOWnlWYXlhNHdVX3lNTGp3eFhWX3UtamVCRi03Rk42U05JeEVOZHozb21KcHJrV3B5ckJwU3c4eWdYbTgycVhkd3c4ZHVVUDVKYm9nalBRLTUxcG9IckQwX3k4M3NTcS1zRDFrZmxqRE50eEg1Sks0Y1J6bkluNEJ5SUw0TWxZenJhMC1udXg4TUlOcXNydGQ0a0EySmNDMzJzaUFaSk81WW5MblVld01BZld3UkZaUGhpanJNLVE?oc=5",
-    "source": "NewsCord",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:06:30.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
+    "firstSeen": "2026-11-21T19:20:00.699Z",
+    "summary": "The motel isn't exactly the nicest accommodation in GTA 6. When can you leave the motel and move in somewhere a little better? Find out here."
   },
   {
     "id": "ed055b905a0f",
@@ -1677,17 +2320,8 @@
     "source": "AllHipHop",
     "kind": "news",
     "publishedAt": "2026-11-21T19:00:00.000Z",
-    "summary": "Sexyy Red turns up as herself in GTA VI and shares a remix credit with Real Dimez, the game's fictional Vice City rap duo.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
-  },
-  {
-    "id": "9e80c2e87bfd",
-    "title": "OFF THE BEAT | We got 'Grand Theft Auto VI' — well, after 13 years",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmJpRmJJc0pCYmxoRzJhc1d5Z2JnTGE1czdGWER3bTA1M0FHTFh1SjdfRzkzQS1oazg3Y21GY014dENzRkVLeHgybjVCZ2xScVE2Ym1hNzJsR0l5QVBfT2ZlUWdpR1Fvbl9hVjRHT3FSM29uYXpVVEwycmdFLVBzenNJOEUzNkhpbFpfTl9CMVNoN0hmRTFjYWtJWXIxdnN5SjdmTmJkdWtiWV9kcXowVURaSWIwbnVCZmRqTGM2SzJiSXJWRG5fb0R3eWlseHJEcl9GMmRwUQ?oc=5",
-    "source": "themercury.com",
-    "kind": "news",
-    "publishedAt": "2026-11-21T19:00:00.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Sexyy Red turns up as herself in GTA VI and shares a remix credit with Real Dimez, the game's fictional Vice City rap duo."
   },
   {
     "id": "ba41d5862690",
@@ -1724,15 +2358,6 @@
     "firstSeen": "2026-11-21T19:20:00.836Z"
   },
   {
-    "id": "1b24ce6fdedf",
-    "title": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!”",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdS0yYm5COUk5ZWlSdlZOQUJwbnJfZ1BPUnZJdkpoLXplRGM5M1ZTNDRjQW1SRmI4TThTa2tRTWNmNXQzR1ZCdWtTMDhIWHpkZjlqU2N5U29GQmhmLWh1Mk1yb3JiQW5tLVVtUlVwRUhVTVV5N0FfMWNXb2FUdGFZSUUwaWVENUlGNHZLdDJFYzBEdw?oc=5",
-    "source": "Kotaku",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:38:58.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
     "id": "90ffee66d95f",
     "title": "How To Make Money QUICKLY In GTA 6!",
     "url": "https://www.youtube.com/shorts/eood1CcPbOk",
@@ -1745,33 +2370,6 @@
     "firstSeen": "2026-11-22T09:52:05.177Z"
   },
   {
-    "id": "9f0ad55bea3c",
-    "title": "GTA 6 crashes on PS5 with error CE-108255-1, leaving players stuck between Sony and Rockstar support",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZTRVZzVUUmllOEtDTnFRa0lyNF9mWDctalpiOHdFNDVnUERJWlNMS1l6Z3V6RkJuY0RLVTFFV2MzUXJKVi1GY1h0eENsMENhQmE1bWtHMXZNc2R1TXBubjJBUnprc1Z5ZWdSRmxCZGNhdnVuSEZndGk3bEk5aXB2amlzcGJTUXBJRlFMaWhsc3A0MUdQcnlIcmxrNmhTMXRLRVJoVGo3WVJLLXNSd2thaHZpX2g0dXZKLWtDX0JqdDBZYjlUQW5kbDk1d3pUNjlrNmVLNmV5OVM2UDMw?oc=5",
-    "source": "Notebookcheck",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:31:00.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
-    "id": "ada87ee1e80e",
-    "title": "Russian propaganda spreading fake claims about anti-Ukrainian content in GTA 6",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlZBLU5WeXhwdmh2UXF1UkY0ellWOHFOLTU5OEpsbFJ6MHRzNm5zeDA3Qm11T196Y0kxaF9xM2NwM2lrTExFZFE5SjNVdmNLTVJuQ3lnSHpVM2UwSjMxWHFybkl2b3ZuRzRMR3lyN0dUMjBQeUNtUGhOYWVOOGhvNkpjNUQwd3ZVVTlZZm1FVDR3TkRLNmg1WTJmNzhfNjJrWUg4eXJKQ1JZMG9sT09qR1BWUXJHUGRNX1J1MlFkbFdTSHpobFU3VXBISTNsd9IB0wFBVV95cUxOQXBfUDk4Vm1GVWNCbzNJeHdDc3ROelRETW5iN3VsRzY2Skp2T1ozcXV3U1c4NXlSQXl6eG1jcDBnTC1OaTJJZFdmaGlweTVUYlpsZERUc0xtZDVHNG9GUHFvb2RBNnlrV2hwbWxFTUtoZExQd2I3Q3dBM3RlM19UZkh4bGJGRE5zMnd2WTM0NURodGFBRmQ3M0hySDRmakhVUVYyekdKaS03VloxQTFMc0VSdkhMalAtQU9lbWQtcDFUb3NJY0FlaGgxRkZHUVd4N1dN?oc=5",
-    "source": "Ukrinform",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:30:00.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
-    "id": "5bc43300033a",
-    "title": "Kodak, Brun create secret Haitian music station in GTA VI. Rockstar wants to celebrate",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDd6Tm1yNEd5MTlIRTVsVVMxSjY5cllqZTBJYzFDU1ZENnJ0NjZxelltSUpGVkgzMDJpRkI2b2E0MlFkWjM0ZlZLaUVXWEVjMXFRTXRhaTRPYWRlUzdHSldadW5ScndvMm9JMUFvODFRd1FTd2NCSS13R2phSWozbGFqZE1LZWMzNU5iTm1JYjg5Z9IBkgFBVV95cUxNUWxWRFR0Y01WV0hqRS1ZY0FrQU1kdmJVdG8zMXYyd0g0eFBQVnJKRXRGUHNGREdZQTZVc19yT2c5VTFNQ0ctMWRmcW1vMTFLQ2dwakpzbzZ0WEUtQVZJRWgwSDA1ZzhOd2JjNTRiM09na0RaNlBLZnNjcW9VVHN4WW1NTDd3TXAyM24tWE5scktTdw?oc=5",
-    "source": "Miami Herald",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:27:00.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
     "id": "c413243b3df2",
     "title": "Can You Repeat Robberies in GTA 6? Make More Money, Fast",
     "url": "https://insider-gaming.com/can-you-repeat-robberies-in-gta-6-make-more-money-fast/",
@@ -1780,24 +2378,6 @@
     "publishedAt": "2026-11-21T18:26:47.000Z",
     "firstSeen": "2026-11-21T19:20:00.699Z",
     "summary": "Is it possible to repeat robberies in GTA 6? Can you take on a gang hideout again after you've eliminated them all? Find out here."
-  },
-  {
-    "id": "fb7666693f9a",
-    "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
-    "source": "BigGo Finance",
-    "kind": "rumor",
-    "publishedAt": "2026-11-21T18:25:00.000Z",
-    "firstSeen": "2026-11-21T19:20:00.699Z"
-  },
-  {
-    "id": "c28b888f1af9",
-    "title": "“GTA VI” Metacritic Score Odds & Prediction Market Analysis",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWXM0SzM5V0s5VFNyLVRsc01ZdC1TNF8tLTBfcVdnUXJoRkhySkRDSzNUSFd3emFDeVFMUlljYWlJeWc1RFVjUE9mVXpyUllSbWJsclNSNldVNjVoZ19aYVNDSWdPUGlFS01ORmV3ZDdCYkJDNWc?oc=5",
-    "source": "CryptoSlate",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:17:11.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
   },
   {
     "id": "ef6c3904c6fb",
@@ -1822,51 +2402,6 @@
     "firstSeen": "2026-11-21T19:20:00.836Z"
   },
   {
-    "id": "f872e99f7f72",
-    "title": "GTA 6 Money Glitch – How to Get Unlimited Money",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5td0V5eEJmN2xQTUxMZ3huVlZ0U0FMNnFXSHJlUzJyNW5FbHJLbkt0dDRmV1AtaTd4UjVNX2xQRXRhM0Vzb3BkVE9vVzJqNTNCVVRzTWxWZjVyWDJORXpxeA?oc=5",
-    "source": "VICE",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:08:45.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
-  },
-  {
-    "id": "0e2c8d28f378",
-    "title": "Grand Theft Auto VI Makes $3.79 Billion on Day One, the Biggest Entertainment Launch Ever",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFZWZi04RXNSWGxmN2tERkY4d3FSa3FYVjgzQTdZaFFkcERlN1RvNzhxbldFYi10cTVoR0RES1owd01sWENxaGUwTmQtOG0tSExqc051TUQ5ejVHTEpYZzN2Tmx2LV9lM25Ic05oX0ItcmYydzBvZGNfaFNVcldIbEhvenp5NnNtek45eDBhaTE3VXZWWmg2OFR1OVUwSVg5YTNPMDllZUdkTnlLV0oydG00VVhSM0dFVzBZd0ZnSQ?oc=5",
-    "source": "gHacks",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:08:05.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
-  },
-  {
-    "id": "3c7cdb7c94b0",
-    "title": "As GTA VI arrives, McAfee warns of new malware-as-a-service targeting gamers and its own customers alike",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUy1HWjF6Z0txX3J0T0hrb3RNZ0hKT3NIcFk4REtkR3dlQU0yZ3pDMWM4bTFMQWtfVWt3N3I2WDdMZFZTY0dBcTZIbE1adDZaazNKM25abjlfS0E3VzJSZFRTNHRZejNCd3IxTmZObDNNMWo3cXFieTRKdEtiTkJrQlBzMFBXWnVQTEZaWTh0N2tfNDRxbkpObjlfcVBaeUg3aTFXUExmOTFQajJuNEFtQlkyZlFnZzBaMjh3ZnpObk9GanBpN2huU3l0a0ZZMl9jUWF5cG5Ycm1rQQ?oc=5",
-    "source": "TechRadar",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:05:00.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
-  },
-  {
-    "id": "7ca0896ae3f1",
-    "title": "GTA 6 Is Being Review-Bombed, Receiving Terrible User Reviews Criticizing Its “Woke Propaganda” and Bugs",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa045YzRHY2N5R1FTcUVlQldJNFZWc0Jpekg5Qk54MWYwUTdNclFyUFhpNHB5T0cyRG5xR3o4dlBUVXRoa1BDS2VNSm1uUkg3dks3VEdhRVVySDI2RW5nQ0Zlczk1a0ZVZ0xSTU1CdjlLclNEOWVGanZKM2hVZGlTQS01MXZTSXFBd3ljTVRNSURVUFJRaFljTzBwU1duRFVKd3BaYnhZNm9xZzcza3NMeThCc3pReWtJMUxaRUF0a002M0kwc3FxbmlDOUVfazA?oc=5",
-    "source": "LevelUp",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:05:00.000Z",
-    "firstSeen": "2026-11-21T21:42:35.050Z"
-  },
-  {
-    "id": "8d8fbcde2099",
-    "title": "GTA 6: Here’s The Secret Entrance to Mile Zero Air Station",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWpCTTdpdFU4TnhReVAwd1lMNml4cFNoOXVCN1F2T0llSU9TR3Zzc3Z3WXBUcklnNlN0eUt0clZBMnIzLXFmbGZWLUlsR3Zrd3VPU0pUWGV1ZURnLU9pRTJBajhjLWI0OUlKWWFTRWVrcHR1YThTQzFYVDMzRlZVcThYNUNnR0RUazYyeEREOA?oc=5",
-    "source": "Cultured Vultures",
-    "kind": "news",
-    "publishedAt": "2026-11-21T18:03:28.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
-  },
-  {
     "id": "e86f10cc50de",
     "title": "Speed after finishing GTA 6 with NO SLEEP 😭",
     "url": "https://www.youtube.com/shorts/sNpmWvR0Jm8",
@@ -1879,13 +2414,15 @@
     "firstSeen": "2026-11-21T19:20:00.836Z"
   },
   {
-    "id": "f83aa67c4754",
-    "title": "'GTA VI' blows away entertainment box office sales records, according to Rockstar Games",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhHRDI3N3ZoZndFelE0RXZnTzRMN25kVnNhS19MZ1lLX1Rzc1B1TEk0RGlDSkJjV2Q0TVBXeFAwN0RaOE9yODcxYWxMWVF3bDdLaG9XQnFxMFpuT0Fma0Fnd1diUVhfR3dIMjBNYVZEaDRFRC1wdUpwTDRQNnd0bVVhX0oyZ2U1WGstODFxRWFjZw?oc=5",
-    "source": "Mashable",
-    "kind": "news",
-    "publishedAt": "2026-11-21T17:54:11.000Z",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
+    "id": "0975029af6b1",
+    "title": "The perfect GTA 6 ending 🥹❤️‍🩹 (Twitch - Yugi2x) #fyp #yugi2x #gta6 | kai cenat ending gta 6",
+    "url": "https://www.tiktok.com/@yugi2x/video/7710683932122991886",
+    "source": "@yugi2x (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-21T17:51:42.000Z",
+    "videoId": "7710683932122991886",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "896f428831a7",
@@ -1895,15 +2432,6 @@
     "kind": "news",
     "publishedAt": "2026-11-21T17:50:46.000Z",
     "summary": "Unlock the laptop in Chapter 3 with this guide",
-    "firstSeen": "2026-11-21T18:20:05.035Z"
-  },
-  {
-    "id": "96dcc8ed3abd",
-    "title": "Peter Moore: GTA VI as a Shot in the Arm for 6 Groups",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxoXzJNVDc4dC05QTZMUDVLbTExVWN1Mi0xM2lvamZyZWhRanJ1VTIxOGZEYjU5djBXSG1NektzY3hwQ21abjRSY3BYTkR0czg3YmFjd0QzaGljb2g4OHF0R29neXJaTUZlUHYwazFiTEtnVjNVWmRPNzJmOUNqSWhR?oc=5",
-    "source": "shattered.io",
-    "kind": "news",
-    "publishedAt": "2026-11-21T17:49:23.000Z",
     "firstSeen": "2026-11-21T18:20:05.035Z"
   },
   {
@@ -2029,6 +2557,16 @@
     "firstSeen": "2026-11-21T18:20:05.159Z"
   },
   {
+    "id": "7b64f53a7ed3",
+    "title": "Lana Del Rey Turns Heads With Husband Jeremy Dufrene At GTA VI Bash Amid Cheating Rumors",
+    "url": "https://theblast.com/888898/lana-del-rey-turns-husband-jeremy-dufrene-gta-vi-bash/",
+    "source": "The Blast",
+    "kind": "rumor",
+    "publishedAt": "2026-11-21T17:00:00.000Z",
+    "summary": "Lana Del Rey steps out with husband Jeremy Dufrene at a GTA VI launch party in Miami after he denied cheating rumors!",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
+  },
+  {
     "id": "c147e0993426",
     "title": "Jump Comparison GTA V vs GTA VI",
     "url": "https://www.youtube.com/shorts/8_FrvBBSk-I",
@@ -2087,6 +2625,17 @@
     "firstSeen": "2026-11-21T19:20:00.836Z"
   },
   {
+    "id": "7796bd0f6e7d",
+    "title": "I compared GTA 6 to GTA 5 👀",
+    "url": "https://www.tiktok.com/@bluethunder/video/7710666643793251614",
+    "source": "@bluethunder (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-21T16:44:37.000Z",
+    "videoId": "7710666643793251614",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "2a1c0909e7cc",
     "title": "GTA 6 Equipment: All 12 pieces of equipment explained and how to unlock them",
     "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
@@ -2113,8 +2662,8 @@
     "source": "VGC",
     "kind": "news",
     "publishedAt": "2026-11-21T16:36:11.000Z",
-    "summary": "Here's the code for the safe in Brooks Boatworks",
-    "firstSeen": "2026-11-21T17:21:00.899Z"
+    "firstSeen": "2026-11-21T17:21:00.899Z",
+    "summary": "Here's the code for the safe in Brooks Boatworks"
   },
   {
     "id": "b7e35f32373d",
@@ -2321,24 +2870,24 @@
     "summary": "Parent company Take-Two Interactive ( TTWO) announced that GTA 6 ended up generating a whopping $3.79 billion in worldwide day-one retail sales through Nov. 19, blowing past Wall Street's loftiest…"
   },
   {
-    "id": "3c3219bf0b97",
-    "title": "Lana Del Rey Turns Heads With Husband Jeremy Dufrene At GTA VI Bash Amid Cheating Rumors",
-    "url": "https://www.yahoo.com/entertainment/celebrity/articles/lana-del-rey-turns-heads-010000245.html",
-    "source": "Yahoo",
-    "kind": "rumor",
-    "publishedAt": "2026-11-21T15:59:00.000Z",
-    "summary": "Lana Del Rey stepped out with husband Jeremy Dufrene at a star-studded Grand Theft Auto VI launch celebration in Miami, making a stylish appearance weeks […]…",
-    "firstSeen": "2026-11-22T06:38:20.272Z"
-  },
-  {
     "id": "6a2bbcf0330c",
     "title": "GTA 6 Trophy List: All 55 Trophies, Platinum Requirements, and Unlock Guide",
     "url": "https://www.tech2geek.net/gta-6-trophy-list-all-55-trophies-platinum-requirements-and-unlock-guide/",
     "source": "Tech to Geek",
     "kind": "rumor",
     "publishedAt": "2026-11-21T15:59:00.000Z",
-    "summary": "Discover all 55 GTA 6 trophies, including the Platinum, hidden achievements, unlock requirements, missable trophies, and completion tips.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Discover all 55 GTA 6 trophies, including the Platinum, hidden achievements, unlock requirements, missable trophies, and completion tips."
+  },
+  {
+    "id": "ec909a1d424f",
+    "title": "How Long Is GTA 6? Main Story, 100% Completion, and Platinum Time",
+    "url": "https://www.tech2geek.net/how-long-is-gta-6-main-story-100-completion-and-platinum-time/",
+    "source": "Tech to Geek",
+    "kind": "rumor",
+    "publishedAt": "2026-11-21T15:59:00.000Z",
+    "summary": "How long is GTA 6? Discover main story completion times, reviewer playthroughs, 100% completion estimates, and how many hours you'll need.",
+    "firstSeen": "2026-11-22T15:15:29.431Z"
   },
   {
     "id": "63cee9246db1",
@@ -2468,8 +3017,8 @@
     "source": "VGC",
     "kind": "news",
     "publishedAt": "2026-11-21T15:25:08.000Z",
-    "summary": "Xbox players are reporting bans for capturing GTA 6",
-    "firstSeen": "2026-11-21T16:19:16.903Z"
+    "firstSeen": "2026-11-21T16:19:16.903Z",
+    "summary": "Xbox players are reporting bans for capturing GTA 6"
   },
   {
     "id": "719c055e8874",
@@ -2851,6 +3400,17 @@
     "firstSeen": "2026-11-21T16:19:16.903Z"
   },
   {
+    "id": "849190ef1e00",
+    "title": "Buying a Games Console to Play GTA 6 on the Launch Day of GTA 6 | gta 6 launch day",
+    "url": "https://www.tiktok.com/@diez.gg/video/7710615630075956513",
+    "source": "@diez.gg (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-21T13:26:40.000Z",
+    "videoId": "7710615630075956513",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "fae9a92da447",
     "title": "Grand Theft Auto voice actor and TV star EJ Carroll dies on same day as GTA VI launch",
     "url": "https://www.msn.com/en-us/news/other/grand-theft-auto-voice-actor-and-tv-star-ej-carroll-dies-on-same-day-as-gta-vi-launch/ar-AA2hW2gO",
@@ -2999,8 +3559,8 @@
     "source": "Newsweek",
     "kind": "news",
     "publishedAt": "2026-11-21T12:58:00.000Z",
-    "summary": "The administration has used Title IX investigations and the possibility of federal enforcement in disputes with school systems.",
-    "firstSeen": "2026-11-21T21:42:35.049Z"
+    "firstSeen": "2026-11-21T21:42:35.049Z",
+    "summary": "The administration has used Title IX investigations and the possibility of federal enforcement in disputes with school systems."
   },
   {
     "id": "fd8610574138",
@@ -3043,8 +3603,8 @@
     "source": "Gephardt Daily",
     "kind": "news",
     "publishedAt": "2026-11-21T12:50:00.000Z",
-    "summary": "Grand Theft Auto VI, the long-awaited new entry in the Rockstar video game franchise, has passed $2.3 billion in sales following its Thursday launch. The open-world action-adventure game sold more…",
-    "firstSeen": "2026-11-21T21:42:35.049Z"
+    "firstSeen": "2026-11-21T21:42:35.049Z",
+    "summary": "Grand Theft Auto VI, the long-awaited new entry in the Rockstar video game franchise, has passed $2.3 billion in sales following its Thursday launch. The open-world action-adventure game sold more…"
   },
   {
     "id": "ce45bc4cb14b",
@@ -3053,7 +3613,7 @@
     "source": "GamesRadar+",
     "kind": "news",
     "publishedAt": "2026-11-21T12:45:47.000Z",
-    "summary": "Here's everything you should do before the Tourist Trap mission in GTA 6 and end Chapter 1",
+    "summary": "Chapter 1 ends with Tourist Trap in in GTA 6 so here's a check list of things to finish",
     "firstSeen": "2026-11-21T13:19:18.363Z"
   },
   {
@@ -3075,8 +3635,8 @@
     "source": "Yahoo",
     "kind": "rumor",
     "publishedAt": "2026-11-21T12:45:00.000Z",
-    "summary": "With his computer confiscated and while out on bail, Arion Kurtaj used an Amazon Fire Stick to access Rockstar's systems and steal GTA 6 footage.",
-    "firstSeen": "2026-11-21T21:42:35.049Z"
+    "firstSeen": "2026-11-21T21:42:35.049Z",
+    "summary": "With his computer confiscated and while out on bail, Arion Kurtaj used an Amazon Fire Stick to access Rockstar's systems and steal GTA 6 footage."
   },
   {
     "id": "e731fa53e61c",
@@ -3260,8 +3820,8 @@
     "source": "India.com",
     "kind": "rumor",
     "publishedAt": "2026-11-21T12:14:00.000Z",
-    "summary": "Thousands of applicants competed for a one-of-a-kind opportunity linked to the highly anticipated video game. The selected candidate will turn his gaming skills into a full-time professional role.",
-    "firstSeen": "2026-11-22T09:52:04.975Z"
+    "firstSeen": "2026-11-22T09:52:04.975Z",
+    "summary": "Thousands of applicants competed for a one-of-a-kind opportunity linked to the highly anticipated video game. The selected candidate will turn his gaming skills into a full-time professional role."
   },
   {
     "id": "526f1721dc44",
@@ -3604,8 +4164,8 @@
     "source": "Decrypt",
     "kind": "rumor",
     "publishedAt": "2026-11-21T10:01:00.000Z",
-    "summary": "A notorious Grand Theft Auto 6 leaker is holding a potential PC version of the game hostage to a cryptocurrency payday.",
-    "firstSeen": "2026-11-21T19:20:00.698Z"
+    "firstSeen": "2026-11-21T19:20:00.698Z",
+    "summary": "A notorious Grand Theft Auto 6 leaker is holding a potential PC version of the game hostage to a cryptocurrency payday."
   },
   {
     "id": "f0cafc0a83ff",
@@ -3724,8 +4284,8 @@
     "source": "Technobezz",
     "kind": "rumor",
     "publishedAt": "2026-11-21T09:37:00.000Z",
-    "summary": "Grand Theft Auto 6 reached $3.79 billion in preorders and first-day sales. Rockstar claims an entertainment launch record, while download traffic surged and PC players still await a release date.",
-    "firstSeen": "2026-11-21T18:20:05.034Z"
+    "firstSeen": "2026-11-21T18:20:05.034Z",
+    "summary": "Grand Theft Auto 6 reached $3.79 billion in preorders and first-day sales. Rockstar claims an entertainment launch record, while download traffic surged and PC players still await a release date."
   },
   {
     "id": "74e9059f5f4b",
@@ -4587,16 +5147,6 @@
     "publishedAt": "2026-11-21T01:49:27.000Z",
     "firstSeen": "2026-11-21T05:01:05.724Z",
     "summary": "How to complete Twist Wrist, Smash, Grab with Billy in GTA 6"
-  },
-  {
-    "id": "c0f782b5abf4",
-    "title": "GTA 6: All Safe Combination Codes",
-    "url": "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/",
-    "source": "Cultured Vultures",
-    "kind": "news",
-    "publishedAt": "2026-11-21T01:38:00.000Z",
-    "firstSeen": "2026-11-21T10:23:18.050Z",
-    "summary": "Sweating profusely during a bank job in Grand Theft Auto 6 and have dipped into the pause menu to try and figure out the safe combinations? Or have you just not managed to find the hints dotted around…"
   },
   {
     "id": "db0fc79bbdbb",
@@ -5938,8 +6488,8 @@
     "source": "GamesRadar+",
     "kind": "news",
     "publishedAt": "2026-11-20T16:55:36.000Z",
-    "summary": "You don't need the GTA 6 bowling alley safe code to access it, so here's how to get in, plus the code if you want it",
-    "firstSeen": "2026-11-20T17:36:27.933Z"
+    "firstSeen": "2026-11-20T17:36:27.933Z",
+    "summary": "You don't need the GTA 6 bowling alley safe code to access it, so here's how to get in, plus the code if you want it"
   },
   {
     "id": "a8a8559a411f",
@@ -6021,8 +6571,8 @@
     "source": "GamesRadar+",
     "kind": "news",
     "publishedAt": "2026-11-20T16:36:23.000Z",
-    "summary": "And it works pretty well, which is good news for an official version",
-    "firstSeen": "2026-11-20T17:36:27.933Z"
+    "firstSeen": "2026-11-20T17:36:27.933Z",
+    "summary": "And it works pretty well, which is good news for an official version"
   },
   {
     "id": "be5f0a8a3acf",
@@ -6031,8 +6581,8 @@
     "source": "GamesRadar+",
     "kind": "news",
     "publishedAt": "2026-11-20T16:35:45.000Z",
-    "summary": "Intergalactic: The Heretic Prophet world design director bows to Rockstar",
-    "firstSeen": "2026-11-20T17:36:27.933Z"
+    "firstSeen": "2026-11-20T17:36:27.933Z",
+    "summary": "Intergalactic: The Heretic Prophet world design director bows to Rockstar"
   },
   {
     "id": "3205ec26dd7d",
@@ -6041,8 +6591,8 @@
     "source": "GamesRadar+",
     "kind": "news",
     "publishedAt": "2026-11-20T16:34:37.000Z",
-    "summary": "You can change the time of day in Grand Theft Auto 6 through sleeping in bed",
-    "firstSeen": "2026-11-20T17:36:27.933Z"
+    "firstSeen": "2026-11-20T17:36:27.933Z",
+    "summary": "You can change the time of day in Grand Theft Auto 6 through sleeping in bed"
   },
   {
     "id": "f8344c62a058",
@@ -7273,8 +7823,8 @@
     "source": "Push Square",
     "kind": "news",
     "publishedAt": "2026-11-20T12:30:00.000Z",
-    "summary": "Optimal HDR calibration settings included. If you’re playing GTA 6 and finding it too dark, there’s a good chance you may have your HDR calibration wrong – and no, it’s not your fault! An extensive research video by HDTV Test – performed on a pricey Sony…",
-    "firstSeen": "2026-11-20T16:19:17.230Z"
+    "firstSeen": "2026-11-20T16:19:17.230Z",
+    "summary": "Optimal HDR calibration settings included. If you’re playing GTA 6 and finding it too dark, there’s a good chance you may have your HDR calibration wrong – and no, it’s not your fault! An extensive research video by HDTV Test – performed on a pricey Sony…"
   },
   {
     "id": "8541c73bb234",
@@ -9092,6 +9642,18 @@
     "summary": "Looking for all GTA 6 cheat codes to become invincible, spawn vehicles and weapons? Here's a complete list of all GTA VI cheats on PS5 and Xbox."
   },
   {
+    "id": "ddefaf836ba9",
+    "title": "GTA 6 Trailer vs Gameplay! 🚨",
+    "url": "https://www.youtube.com/shorts/jXz4N64VlQY",
+    "source": "Vice Central",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-20T02:10:33.000Z",
+    "videoId": "jXz4N64VlQY",
+    "thumbnail": "https://i.ytimg.com/vi/jXz4N64VlQY/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "0001c48a9d73",
     "title": "GTA 6 Breaks Records With Estimated $2.36 Billion Launch",
     "url": "https://www.yahoo.com/news/videos/gta-6-breaks-records-estimated-111500100.html",
@@ -9577,6 +10139,17 @@
     "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November."
   },
   {
+    "id": "6ec50daf8dfd",
+    "title": "How it feels when my man is playing Grand Theft Auto 6",
+    "url": "https://www.tiktok.com/@hannahstocking/video/7710010000210529549",
+    "source": "@hannahstocking (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-19T22:16:30.000Z",
+    "videoId": "7710010000210529549",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "48e59cf471c9",
     "title": "Fly-In Community Airport in GTA 6",
     "url": "https://www.tiktok.com/@aaronrheins/video/7710009585855188255",
@@ -9980,6 +10553,18 @@
     "summary": "GTA 6 fans weren't expecting that keeping Lucia happy would require any actual work on Jason's part despite Rockstar's focus on the relationship"
   },
   {
+    "id": "3d91a174650c",
+    "title": "GTA 6 Gore level is on another level",
+    "url": "https://www.youtube.com/shorts/T2J9s3vrGEk",
+    "source": "smargem",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-19T19:27:21.000Z",
+    "videoId": "T2J9s3vrGEk",
+    "thumbnail": "https://i.ytimg.com/vi/T2J9s3vrGEk/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "57097ba467f5",
     "title": "How to Crack Lucia in GTA 6 (Most People Miss This)",
     "url": "https://www.youtube.com/shorts/Ok06cqF97zk",
@@ -10068,6 +10653,17 @@
     "videoId": "eAvHPTGmoXM",
     "thumbnail": "https://i.ytimg.com/vi/eAvHPTGmoXM/hqdefault.jpg",
     "firstSeen": "2026-11-20T18:31:56.683Z"
+  },
+  {
+    "id": "613c1965913d",
+    "title": "GTA 6 Reaction Meme: How Non-Players Expect Us to React 😂",
+    "url": "https://www.tiktok.com/@kamedwards_/video/7709957970813127950",
+    "source": "@kamedwards_ (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-19T18:54:36.000Z",
+    "videoId": "7709957970813127950",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "cdf17311bfab",
@@ -10215,17 +10811,6 @@
     "firstSeen": "2026-11-20T16:19:17.362Z"
   },
   {
-    "id": "3277d8b15663",
-    "title": "When You Finish GTA 5 & Just Want to Play GTA 6 😭",
-    "url": "https://www.tiktok.com/@big.chungus.offic16/video/7709947556633136391",
-    "source": "@big.chungus.offic16 (TikTok)",
-    "kind": "video",
-    "platform": "tiktok",
-    "publishedAt": "2026-11-19T18:14:12.000Z",
-    "videoId": "7709947556633136391",
-    "firstSeen": "2026-11-22T09:52:05.177Z"
-  },
-  {
     "id": "6e30f40f6bf3",
     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
     "url": "https://www.msn.com/en-au/entertainment/general/gta-6-breaks-records-as-sales-top-2bn-industry-estimate/ar-AA2hORly",
@@ -10323,6 +10908,17 @@
     "publishedAt": "2026-11-19T17:56:28.000Z",
     "videoId": "7709942990273318175",
     "firstSeen": "2026-11-21T09:42:26.929Z"
+  },
+  {
+    "id": "e5fcd4cf3b47",
+    "title": "POV: HS TIKKY TOKKY In GTA 6 — Funny POV Clip",
+    "url": "https://www.tiktok.com/@jdtickerz/video/7709942780193180950",
+    "source": "@jdtickerz (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-19T17:55:40.000Z",
+    "videoId": "7709942780193180950",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "920673c821e4",
@@ -10841,6 +11437,18 @@
     "summary": "Grand Theft Auto 6 star has high praise for Rockstar"
   },
   {
+    "id": "4960850437fd",
+    "title": "GTA 6 Lets You Ruin Your Relationship Early 💀",
+    "url": "https://www.youtube.com/shorts/bUJFnupwO2o",
+    "source": "Marco GTA",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-19T15:30:33.000Z",
+    "videoId": "bUJFnupwO2o",
+    "thumbnail": "https://i.ytimg.com/vi/bUJFnupwO2o/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "0996e4849470",
     "title": "GTA 6 is ANTI FUN",
     "url": "https://www.youtube.com/shorts/sqhZqrNe4Rs",
@@ -10962,8 +11570,8 @@
     "source": "Dexerto",
     "kind": "news",
     "publishedAt": "2026-11-19T15:05:20.000Z",
-    "summary": "GTA 6 players have discovered Dexter Morgan’s apartment in Vice City, complete with a collection of his signature killing tools.",
-    "firstSeen": "2026-11-19T21:28:01.971Z"
+    "firstSeen": "2026-11-19T21:28:01.971Z",
+    "summary": "GTA 6 players have discovered Dexter Morgan’s apartment in Vice City, complete with a collection of his signature killing tools."
   },
   {
     "id": "971b8100e9f7",
@@ -10992,8 +11600,8 @@
     "source": "Dexerto",
     "kind": "news",
     "publishedAt": "2026-11-19T14:43:33.000Z",
-    "summary": "GTA 6 fans are discovering that driving while checking their in-game phone drastically changes the way their vehicle handles, spawning a wave of viral memes and videos that highlight how dangerous it is.",
-    "firstSeen": "2026-11-19T21:28:01.971Z"
+    "firstSeen": "2026-11-19T21:28:01.971Z",
+    "summary": "GTA 6 fans are discovering that driving while checking their in-game phone drastically changes the way their vehicle handles, spawning a wave of viral memes and videos that highlight how dangerous it is."
   },
   {
     "id": "eb7188a71c38",
@@ -12543,6 +13151,18 @@
     "firstSeen": "2026-11-20T18:31:56.683Z"
   },
   {
+    "id": "3b00002d2c7e",
+    "title": "I hate GTA 6 driving physics, I love it",
+    "url": "https://www.youtube.com/shorts/mPXEGfEe-Kk",
+    "source": "Futu7e",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-18T23:35:30.000Z",
+    "videoId": "mPXEGfEe-Kk",
+    "thumbnail": "https://i.ytimg.com/vi/mPXEGfEe-Kk/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "3a104a27f024",
     "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
     "url": "https://www.ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity",
@@ -12721,6 +13341,17 @@
     "videoId": "vdmqbeDM78Q",
     "thumbnail": "https://i.ytimg.com/vi/vdmqbeDM78Q/hqdefault.jpg",
     "firstSeen": "2026-11-20T16:19:17.362Z"
+  },
+  {
+    "id": "34f340d186ba",
+    "title": "Almost there gta 6",
+    "url": "https://www.tiktok.com/@zeuz_/video/7709640025763237133",
+    "source": "@zeuz_ (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-18T22:20:49.000Z",
+    "videoId": "7709640025763237133",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "50d4a2e6c362",
@@ -13028,6 +13659,17 @@
     "summary": "Microsoft and Take-Two recently announced a deal to allow people to stream Rockstar's GTA 6, and that significantly increases the game's addressable market on Xbox and means people can play the game for as little as $92. This is according to a newly issued…"
   },
   {
+    "id": "631c233e0606",
+    "title": "if you search up “gta 6” on tik tok a special animation will pop up on your screen…",
+    "url": "https://www.tiktok.com/@brandonspam_/video/7709601829134355742",
+    "source": "@brandonspam_ (TikTok)",
+    "kind": "video",
+    "platform": "tiktok",
+    "publishedAt": "2026-11-18T19:52:36.000Z",
+    "videoId": "7709601829134355742",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "c85f46acfe05",
     "title": "GTA 6 gameplay clips — nobody saw that moment",
     "url": "https://www.tiktok.com/@typicalgamer/video/7709600239384087829",
@@ -13313,6 +13955,18 @@
     "firstSeen": "2026-11-20T16:19:17.362Z"
   },
   {
+    "id": "1d6ccd59f160",
+    "title": "OMG GTA 6 Gore",
+    "url": "https://www.youtube.com/shorts/O8bl6pcy4_E",
+    "source": "Halestorm01",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-18T18:10:18.000Z",
+    "videoId": "O8bl6pcy4_E",
+    "thumbnail": "https://i.ytimg.com/vi/O8bl6pcy4_E/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
+  },
+  {
     "id": "8b96f8562025",
     "title": "Where To Find Bigfoot In GTA 6",
     "url": "https://insider-gaming.com/where-to-find-bigfoot-gta-6/",
@@ -13515,6 +14169,18 @@
     "publishedAt": "2026-11-18T17:16:26.000Z",
     "firstSeen": "2026-11-18T21:54:08.190Z",
     "summary": "Rockstar has revealed that GTA 6 has ditched the internet in favour of apps and a meaningful progression. Here are more details."
+  },
+  {
+    "id": "11148c0e01f2",
+    "title": "Kai Cenat Shoots a Basketball for the FIRST Time in GTA 6! 😮‍💨🏀",
+    "url": "https://www.youtube.com/shorts/sQYCrKsXWyM",
+    "source": "ClipMadeHim",
+    "kind": "video",
+    "platform": "short",
+    "publishedAt": "2026-11-18T17:09:31.000Z",
+    "videoId": "sQYCrKsXWyM",
+    "thumbnail": "https://i.ytimg.com/vi/sQYCrKsXWyM/hqdefault.jpg",
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "a828f082817a",
@@ -14826,8 +15492,8 @@
     "source": "Eurogamer",
     "kind": "news",
     "publishedAt": "2026-11-13T15:54:30.000Z",
-    "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6. For more like this, see our GTA Week hub - or for the exact opposite, look…",
-    "firstSeen": "2026-11-20T00:15:21.442Z"
+    "firstSeen": "2026-11-20T00:15:21.442Z",
+    "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6. For more like this, see our GTA Week hub - or for the exact opposite, look…"
   },
   {
     "id": "f3afcfb5b9b1",
@@ -15298,7 +15964,7 @@
     "publishedAt": "2026-08-28T01:01:24.000Z",
     "videoId": "mAfR_ybf5WM",
     "thumbnail": "https://i.ytimg.com/vi/mAfR_ybf5WM/hqdefault.jpg",
-    "firstSeen": "2026-11-22T09:52:05.177Z"
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "9e33dbc2e989",
@@ -15310,7 +15976,7 @@
     "publishedAt": "2026-08-28T01:01:18.000Z",
     "videoId": "GVTE_MuInQg",
     "thumbnail": "https://i.ytimg.com/vi/GVTE_MuInQg/hqdefault.jpg",
-    "firstSeen": "2026-11-22T09:52:05.177Z"
+    "firstSeen": "2026-11-22T15:15:29.507Z"
   },
   {
     "id": "fed18eacd103",
